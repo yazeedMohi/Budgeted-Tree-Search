@@ -1,0 +1,504 @@
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 0
+(4x4)14 13 15 7 11 12 9 5 6 0 2 1 4 8 10 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2209.159s elapsed | 1568629051 expanded | 4641581549 generated | solution length: 66.06262348762353
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 1
+(4x4)13 5 4 10 9 12 8 14 2 3 7 1 0 15 11 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1031.094s elapsed | 722901867 expanded | 2161505085 generated | solution length: 64.3966283716284
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 2
+(4x4)14 7 8 2 13 11 10 4 9 12 5 0 3 6 1 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 20786.503s elapsed | 11382908207 expanded | 34475052203 generated | solution length: 68.20311077811081
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 3
+(4x4)5 12 10 7 15 11 14 0 8 2 1 13 3 4 9 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1468.489s elapsed | 1404686606 expanded | 4177357585 generated | solution length: 65.67946359196361
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 4
+(4x4)4 7 14 13 10 3 9 12 11 5 6 15 1 2 8 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 651.421s elapsed | 652416968 expanded | 1973763238 generated | solution length: 64.51085997336
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 5
+(4x4)14 7 1 9 12 3 6 15 8 11 2 5 10 0 4 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 175.753s elapsed | 175128503 expanded | 526148303 generated | solution length: 60.34482739482744
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 6
+(4x4)2 11 15 5 13 4 6 7 12 8 10 1 9 3 14 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 3738.244s elapsed | 2600638632 expanded | 7813763854 generated | solution length: 60.52627372627375
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 7
+(4x4)12 11 15 3 8 0 4 2 6 13 9 5 14 1 10 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 245.918s elapsed | 175417315 expanded | 521024476 generated | solution length: 57.32095682095686
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 8
+(4x4)3 14 9 11 5 4 8 2 13 12 6 7 10 1 15 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 12.629s elapsed | 8580228 expanded | 25797651 generated | solution length: 52.97268148518152
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 9
+(4x4)13 11 8 9 0 15 7 10 4 3 6 14 5 12 2 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 17243.819s elapsed | 9638389351 expanded | 29026729075 generated | solution length: 68.90167055167058
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 10
+(4x4)5 9 13 14 6 3 7 12 10 8 4 0 15 2 11 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2953.307s elapsed | 1547432512 expanded | 4615039192 generated | solution length: 67.29884698634703
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 11
+(4x4)14 1 9 6 4 8 12 5 7 2 3 0 10 11 13 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 11.967s elapsed | 10277513 expanded | 31173195 generated | solution length: 52.31534021534024
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 12
+(4x4)3 6 5 2 10 0 15 14 1 4 13 12 9 8 11 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 127.092s elapsed | 86689711 expanded | 258617634 generated | solution length: 53.26950688200691
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 13
+(4x4)7 6 8 1 11 5 14 10 3 4 9 13 15 2 0 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 4350.226s elapsed | 3096207860 expanded | 9179162449 generated | solution length: 68.25373099123102
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 14
+(4x4)13 11 4 12 1 8 9 15 6 5 14 2 7 3 10 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 19903.904s elapsed | 11219307518 expanded | 33384507956 generated | solution length: 70.67037684537688
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 15
+(4x4)1 3 2 5 10 9 15 6 8 14 13 11 12 4 7 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 94.615s elapsed | 86064919 expanded | 260898488 generated | solution length: 48.31221139971141
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 18
+(4x4)7 11 8 3 14 0 6 15 1 4 13 9 5 12 2 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 33.483s elapsed | 22147181 expanded | 68076995 generated | solution length: 53.024289599289624
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 19
+(4x4)6 12 11 3 13 7 9 15 2 14 8 10 4 1 5 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 521.499s elapsed | 360336443 expanded | 1085608521 generated | solution length: 60.418911643911684
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 20
+(4x4)12 8 14 6 11 4 7 0 5 1 10 15 3 13 9 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2248.939s elapsed | 1534454421 expanded | 4627529580 generated | solution length: 63.618810356310384
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 21
+(4x4)14 3 9 1 15 8 4 5 11 7 10 13 0 2 12 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 9154.904s elapsed | 5761490884 expanded | 17197440704 generated | solution length: 68.78672854922858
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 22
+(4x4)10 9 3 11 0 13 2 14 5 6 4 7 8 15 1 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 153.203s elapsed | 87385179 expanded | 261640474 generated | solution length: 57.20432622932626
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 23
+(4x4)7 3 14 13 4 1 10 8 5 12 9 11 2 15 6 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 3743.54s elapsed | 2285240903 expanded | 7001476667 generated | solution length: 62.131407481407514
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 24
+(4x4)11 4 2 7 1 0 10 15 6 9 14 8 3 13 5 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1528.6s elapsed | 1070133366 expanded | 3189043730 generated | solution length: 59.612898212898244
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 25
+(4x4)5 7 3 12 15 13 14 8 0 10 9 6 1 4 2 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 8305.923s elapsed | 5347287790 expanded | 16100360989 generated | solution length: 66.15120296370301
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 26
+(4x4)14 1 8 15 2 6 0 3 9 12 10 13 4 7 5 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 4408.477s elapsed | 2645197449 expanded | 7982118907 generated | solution length: 60.131172993673026
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 27
+(4x4)13 14 6 12 4 5 1 0 9 3 10 2 15 11 8 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 229.548s elapsed | 133137344 expanded | 399275887 generated | solution length: 59.345142357642395
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 28
+(4x4)9 8 0 2 15 1 4 14 3 10 7 5 11 13 6 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 668.424s elapsed | 386986464 expanded | 1144471775 generated | solution length: 61.10495754245758
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 29
+(4x4)12 15 2 6 1 14 4 8 5 3 7 0 10 13 9 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 76.807s elapsed | 50511709 expanded | 151818353 generated | solution length: 53.84285853035856
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 30
+(4x4)12 8 15 13 1 0 5 4 6 3 2 11 9 7 14 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 78.188s elapsed | 56132065 expanded | 166283579 generated | solution length: 58.00068265068266
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 31
+(4x4)14 10 9 4 13 6 5 8 2 12 7 0 1 3 11 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 15059.77s elapsed | 9665410685 expanded | 29091113893 generated | solution length: 68.84093129093131
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 32
+(4x4)14 3 5 15 11 6 13 9 0 10 2 12 4 1 7 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 6220.36s elapsed | 2845057562 expanded | 8419913325 generated | solution length: 68.99061077811082
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 33
+(4x4)6 11 7 8 13 2 5 4 1 10 3 9 14 0 12 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 443.411s elapsed | 194592641 expanded | 585264921 generated | solution length: 60.56216561216566
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 34
+(4x4)1 6 12 14 3 2 15 8 4 5 13 9 0 7 11 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2508.342s elapsed | 1406928868 expanded | 4215627504 generated | solution length: 62.4305208680209
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 35
+(4x4)12 6 0 4 7 3 15 1 13 9 8 11 2 14 5 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 188.63s elapsed | 178869683 expanded | 533941527 generated | solution length: 60.42667471417475
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 36
+(4x4)8 1 7 12 11 0 10 5 9 15 6 13 14 2 3 4
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 8034.952s elapsed | 5596925516 expanded | 16478819763 generated | solution length: 66.53890137640143
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 37
+(4x4)7 15 8 2 13 6 3 12 11 0 4 10 9 5 1 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 331.662s elapsed | 192833977 expanded | 575799349 generated | solution length: 60.826191863691896
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 38
+(4x4)9 0 4 10 1 14 15 3 12 6 5 7 11 13 8 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 588.119s elapsed | 325386532 expanded | 999732673 generated | solution length: 56.401436063936096
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 39
+(4x4)11 5 1 14 4 12 10 0 2 7 13 3 9 15 6 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 4592.246s elapsed | 2619612330 expanded | 7928178700 generated | solution length: 62.06190198690203
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 40
+(4x4)8 13 10 9 11 3 15 6 0 1 2 14 12 5 4 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2191.064s elapsed | 1427402017 expanded | 4343015169 generated | solution length: 62.685141247641276
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 41
+(4x4)4 5 7 2 9 14 12 13 0 3 6 11 8 1 15 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 7.796s elapsed | 5664776 expanded | 17195736 generated | solution length: 49.5131216006216
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 42
+(4x4)11 15 14 13 1 9 10 4 3 6 2 12 7 5 8 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 3830.173s elapsed | 2884181820 expanded | 8473684536 generated | solution length: 72.898871961372
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 43
+(4x4)12 9 0 6 8 3 5 14 2 4 11 7 10 1 15 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 229.513s elapsed | 163172217 expanded | 487414916 generated | solution length: 58.00012348762351
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 44
+(4x4)3 14 9 7 12 15 0 4 1 8 5 6 11 10 2 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 122.793s elapsed | 87310579 expanded | 261432443 generated | solution length: 59.07338494838498
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 45
+(4x4)8 4 6 1 14 12 2 15 13 10 9 5 3 7 0 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 125.93s elapsed | 89992648 expanded | 267343218 generated | solution length: 56.44595682095686
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 46
+(4x4)6 10 1 14 15 8 3 5 13 0 2 7 4 9 11 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 34.809s elapsed | 24127807 expanded | 72542493 generated | solution length: 53.78861555111558
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 47
+(4x4)8 11 4 6 7 3 10 9 2 12 15 13 0 1 5 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 31.752s elapsed | 22136608 expanded | 67117278 generated | solution length: 58.165462315462335
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 54
+(4x4)13 8 14 3 9 1 0 7 15 5 4 10 12 2 6 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 9.499s elapsed | 6056363 expanded | 18602463 generated | solution length: 47.81471861471863
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 55
+(4x4)3 15 2 5 11 6 4 7 12 9 1 0 13 14 10 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 21489.766s elapsed | 12480666703 expanded | 37558399278 generated | solution length: 63.45555694305699
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 56
+(4x4)5 11 6 9 4 13 12 0 8 2 15 10 1 7 3 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 447.024s elapsed | 187688522 expanded | 568049516 generated | solution length: 58.357079032079056
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 57
+(4x4)5 0 15 8 4 6 1 14 10 11 3 9 7 12 2 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 453.712s elapsed | 186880614 expanded | 571750540 generated | solution length: 59.041028416028446
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 58
+(4x4)15 14 6 7 10 1 0 11 12 8 4 9 2 5 13 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 6488.613s elapsed | 5683525735 expanded | 16834289133 generated | solution length: 65.7743256743257
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 60
+(4x4)6 13 3 2 11 9 5 10 1 7 12 14 8 4 0 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 63.571s elapsed | 43326018 expanded | 131064347 generated | solution length: 51.7567071817072
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 61
+(4x4)4 6 12 0 14 2 9 13 11 8 3 15 7 10 1 5
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 987.202s elapsed | 716961581 expanded | 2141466972 generated | solution length: 65.47285908535912
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 62
+(4x4)8 10 9 11 14 1 7 15 13 4 0 12 6 2 5 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 3301.72s elapsed | 2388209891 expanded | 7195989747 generated | solution length: 64.75826950826954
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 63
+(4x4)5 2 14 0 7 8 6 3 11 12 13 15 4 10 9 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2330.763s elapsed | 1560633824 expanded | 4792221337 generated | solution length: 59.539903152403184
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 64
+(4x4)7 8 3 2 10 12 4 6 11 13 5 15 0 1 9 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 313.41s elapsed | 176328688 expanded | 534551770 generated | solution length: 55.112894050394075
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 66
+(4x4)7 1 2 4 8 3 6 11 10 15 0 5 14 12 13 9
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 6986.438s elapsed | 4576422870 expanded | 14059242001 generated | solution length: 57.756630869130916
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 67
+(4x4)7 3 1 13 12 10 5 2 8 0 6 11 14 15 4 9
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1709.19s elapsed | 943222141 expanded | 2841493652 generated | solution length: 58.78164613164616
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 68
+(4x4)6 0 5 15 1 14 4 9 2 13 8 10 11 12 7 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2235.506s elapsed | 1295748815 expanded | 3885936472 generated | solution length: 61.991790154290186
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 69
+(4x4)15 1 3 12 4 0 6 5 2 8 14 9 13 10 7 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 4419.577s elapsed | 2641098991 expanded | 7942227802 generated | solution length: 59.19176934176937
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 70
+(4x4)5 7 0 11 12 1 9 10 15 6 2 3 8 4 13 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 57.509s elapsed | 43129356 expanded | 128355157 generated | solution length: 51.518672993673015
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 71
+(4x4)12 15 11 10 4 5 14 0 13 7 1 2 9 8 3 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 9865.537s elapsed | 5209403615 expanded | 15429823149 generated | solution length: 64.06304667554672
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 72
+(4x4)6 14 10 5 15 8 7 1 3 4 2 0 12 9 11 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 65.66s elapsed | 44521874 expanded | 134573073 generated | solution length: 57.49478715728718
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 73
+(4x4)14 13 4 11 15 8 6 9 0 7 3 1 2 10 12 5
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 138.112s elapsed | 97880359 expanded | 289626022 generated | solution length: 64.99295565545569
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 74
+(4x4)14 4 0 10 6 5 1 3 9 2 13 15 12 7 8 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 849.63s elapsed | 559828040 expanded | 1711750429 generated | solution length: 55.136417748917765
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 75
+(4x4)15 10 8 3 0 6 9 5 1 14 13 11 7 2 12 4
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 4520.824s elapsed | 3093614131 expanded | 9384983585 generated | solution length: 65.90997890997896
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 76
+(4x4)0 13 2 4 12 14 6 9 15 1 10 3 11 5 8 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2056.347s elapsed | 1219821862 expanded | 3667676084 generated | solution length: 62.41185481185484
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 77
+(4x4)3 14 13 6 4 15 8 9 5 12 10 0 2 7 1 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 299.761s elapsed | 169234320 expanded | 504964331 generated | solution length: 61.605577755577784
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 78
+(4x4)0 1 9 7 11 13 5 3 14 12 4 2 8 6 10 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 8.723s elapsed | 5528811 expanded | 16895110 generated | solution length: 48.464343989343995
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 79
+(4x4)11 0 15 8 13 12 3 5 10 1 4 6 14 9 7 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 3426.152s elapsed | 2343815279 expanded | 7022868572 generated | solution length: 66.36452158952163
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 80
+(4x4)13 0 9 12 11 6 3 5 15 8 1 10 4 14 2 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 130.839s elapsed | 88741630 expanded | 264081445 generated | solution length: 61.38188478188481
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 84
+(4x4)4 7 13 10 1 2 9 6 12 8 14 5 3 0 11 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 36.795s elapsed | 23958224 expanded | 73152537 generated | solution length: 50.697269397269416
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 85
+(4x4)6 0 5 10 11 12 9 2 1 7 4 3 14 8 13 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 31.03s elapsed | 20550168 expanded | 62465811 generated | solution length: 51.887898212898236
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 86
+(4x4)9 5 11 10 13 0 2 1 8 6 14 12 4 7 3 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2016.876s elapsed | 1389410420 expanded | 4129733551 generated | solution length: 60.96057831057834
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 90
+(4x4)9 7 5 2 14 15 12 10 11 3 6 1 8 13 0 4
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 10045.786s elapsed | 6630060607 expanded | 19769072408 generated | solution length: 66.30580253080258
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 91
+(4x4)3 2 7 9 0 15 12 4 6 11 5 14 8 13 10 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 18063.484s elapsed | 11315046557 expanded | 33683415332 generated | solution length: 66.31256243756248
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 92
+(4x4)13 9 14 6 12 8 1 2 3 4 0 7 5 10 11 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 49.594s elapsed | 48676811 expanded | 148545607 generated | solution length: 53.747050172050194
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 93
+(4x4)5 7 11 8 0 14 9 13 10 12 3 15 6 1 4 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 29.06s elapsed | 30147933 expanded | 90805902 generated | solution length: 62.05934759684764
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 94
+(4x4)4 3 6 13 7 15 9 0 10 5 8 11 2 12 1 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 194.539s elapsed | 194178769 expanded | 583806564 generated | solution length: 58.65682928182931
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 95
+(4x4)1 7 15 14 2 6 4 9 12 11 13 3 0 8 5 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 88.847s elapsed | 88050258 expanded | 265444609 generated | solution length: 55.849614274614304
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 96
+(4x4)9 14 5 7 8 15 1 2 10 4 13 6 12 0 11 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 30.99s elapsed | 30341241 expanded | 91512515 generated | solution length: 51.64888167388168
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 97
+(4x4)0 11 3 12 5 2 1 9 8 10 14 15 7 4 13 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2891.326s elapsed | 2842091782 expanded | 8625657764 generated | solution length: 61.9142260517261
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 98
+(4x4)7 15 4 0 10 9 2 5 12 11 13 6 1 3 14 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1408.807s elapsed | 1408186411 expanded | 4250659096 generated | solution length: 66.4264360639361
+
+
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 99
+(4x4)11 4 0 8 6 10 5 13 12 7 14 3 1 2 9 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1323.026s elapsed | 1304491042 expanded | 3971778883 generated | solution length: 62.61000388500392
+
+

@@ -1,0 +1,14 @@
+IDA* on unit STP problem 98
+(4x4)7 15 4 0 10 9 2 5 12 11 13 6 1 3 14 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 39.0 | 0 expanded | 0 generated
+F bound current: 41.0 | 1 expanded | 2 generated
+F bound current: 43.0 | 10 expanded | 28 generated
+F bound current: 45.0 | 68 expanded | 205 generated
+F bound current: 47.0 | 443 expanded | 1330 generated
+F bound current: 49.0 | 2686 expanded | 8032 generated
+F bound current: 51.0 | 16157 expanded | 48377 generated
+F bound current: 53.0 | 98042 expanded | 293846 generated
+F bound current: 55.0 | 592556 expanded | 1778070 generated
+F bound current: 57.0 | 3596277 expanded | 10801772 generated
+Time: 10.627s elapsed | 10805810 expanded | 32441227 generated | solution length: 57

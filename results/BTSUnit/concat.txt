@@ -1,0 +1,600 @@
+BTS on unit STP problem 0
+(4x4)14 13 15 7 11 12 9 5 6 0 2 1 4 8 10 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 11.741s elapsed | 12376518 expanded | 36476005 generated | solution length: 57
+
+
+BTS on unit STP problem 1
+(4x4)13 5 4 10 9 12 8 14 2 3 7 1 0 15 11 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2.262s elapsed | 2428691 expanded | 7209619 generated | solution length: 55
+
+
+BTS on unit STP problem 2
+(4x4)14 7 8 2 13 11 10 4 9 12 5 0 3 6 1 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 55.448s elapsed | 58010842 expanded | 175421922 generated | solution length: 59
+
+
+BTS on unit STP problem 3
+(4x4)5 12 10 7 15 11 14 0 8 2 1 13 3 4 9 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 4.118s elapsed | 4382435 expanded | 12966296 generated | solution length: 56
+
+
+BTS on unit STP problem 4
+(4x4)4 7 14 13 10 3 9 12 11 5 6 15 1 2 8 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.873s elapsed | 2002556 expanded | 6000689 generated | solution length: 56
+
+
+BTS on unit STP problem 5
+(4x4)14 7 1 9 12 3 6 15 8 11 2 5 10 0 4 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.713s elapsed | 731010 expanded | 2185133 generated | solution length: 52
+
+
+BTS on unit STP problem 6
+(4x4)2 11 15 5 13 4 6 7 12 8 10 1 9 3 14 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 19.829s elapsed | 20843584 expanded | 62234798 generated | solution length: 52
+
+
+BTS on unit STP problem 7
+(4x4)12 11 15 3 8 0 4 2 6 13 9 5 14 1 10 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.808s elapsed | 1938605 expanded | 5726246 generated | solution length: 50
+
+
+BTS on unit STP problem 8
+(4x4)3 14 9 11 5 4 8 2 13 12 6 7 10 1 15 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.107s elapsed | 109993 expanded | 329991 generated | solution length: 46
+
+
+BTS on unit STP problem 9
+(4x4)13 11 8 9 0 15 7 10 4 3 6 14 5 12 2 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 58.311s elapsed | 61501316 expanded | 184988308 generated | solution length: 59
+
+
+BTS on unit STP problem 10
+(4x4)5 9 13 14 6 3 7 12 10 8 4 0 15 2 11 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 8.417s elapsed | 8989904 expanded | 26733343 generated | solution length: 57
+
+
+BTS on unit STP problem 11
+(4x4)14 1 9 6 4 8 12 5 7 2 3 0 10 11 13 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.029s elapsed | 23032 expanded | 69703 generated | solution length: 45
+
+
+BTS on unit STP problem 12
+(4x4)3 6 5 2 10 0 15 14 1 4 13 12 9 8 11 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.247s elapsed | 256117 expanded | 748731 generated | solution length: 46
+
+
+BTS on unit STP problem 13
+(4x4)7 6 8 1 11 5 14 10 3 4 9 13 15 2 0 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 24.736s elapsed | 26375197 expanded | 77648350 generated | solution length: 59
+
+
+BTS on unit STP problem 14
+(4x4)13 11 4 12 1 8 9 15 6 5 14 2 7 3 10 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 29.839s elapsed | 32208679 expanded | 94946752 generated | solution length: 62
+
+
+BTS on unit STP problem 15
+(4x4)1 3 2 5 10 9 15 6 8 14 13 11 12 4 7 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.486s elapsed | 493427 expanded | 1474811 generated | solution length: 42
+
+
+BTS on unit STP problem 16
+(4x4)15 14 0 4 11 1 6 13 7 5 8 9 3 2 10 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 47.537s elapsed | 51533481 expanded | 151037274 generated | solution length: 66
+
+
+BTS on unit STP problem 17
+(4x4)6 0 14 12 1 15 9 10 11 4 7 2 8 3 5 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2.748s elapsed | 2903413 expanded | 8564258 generated | solution length: 55
+
+
+BTS on unit STP problem 18
+(4x4)7 11 8 3 14 0 6 15 1 4 13 9 5 12 2 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.328s elapsed | 326002 expanded | 1003451 generated | solution length: 46
+
+
+BTS on unit STP problem 19
+(4x4)6 12 11 3 13 7 9 15 2 14 8 10 4 1 5 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 3.187s elapsed | 3288054 expanded | 9805572 generated | solution length: 52
+
+
+BTS on unit STP problem 20
+(4x4)12 8 14 6 11 4 7 0 5 1 10 15 3 13 9 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 21.411s elapsed | 21844848 expanded | 65694059 generated | solution length: 54
+
+
+BTS on unit STP problem 21
+(4x4)14 3 9 1 15 8 4 5 11 7 10 13 0 2 12 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 18.626s elapsed | 19476120 expanded | 58047904 generated | solution length: 59
+
+
+BTS on unit STP problem 22
+(4x4)10 9 3 11 0 13 2 14 5 6 4 7 8 15 1 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.371s elapsed | 374475 expanded | 1118060 generated | solution length: 49
+
+
+BTS on unit STP problem 23
+(4x4)7 3 14 13 4 1 10 8 5 12 9 11 2 15 6 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 7.435s elapsed | 7402611 expanded | 22595222 generated | solution length: 54
+
+
+BTS on unit STP problem 24
+(4x4)11 4 2 7 1 0 10 15 6 9 14 8 3 13 5 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 5.698s elapsed | 5982001 expanded | 17597060 generated | solution length: 52
+
+
+BTS on unit STP problem 25
+(4x4)5 7 3 12 15 13 14 8 0 10 9 6 1 4 2 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 38.653s elapsed | 40450827 expanded | 120834228 generated | solution length: 58
+
+
+BTS on unit STP problem 26
+(4x4)14 1 8 15 2 6 0 3 9 12 10 13 4 7 5 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 9.843s elapsed | 10251534 expanded | 30652827 generated | solution length: 53
+
+
+BTS on unit STP problem 27
+(4x4)13 14 6 12 4 5 1 0 9 3 10 2 15 11 8 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.342s elapsed | 1417964 expanded | 4215610 generated | solution length: 52
+
+
+BTS on unit STP problem 28
+(4x4)9 8 0 2 15 1 4 14 3 10 7 5 11 13 6 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 4.08s elapsed | 4340908 expanded | 12692090 generated | solution length: 54
+
+
+BTS on unit STP problem 29
+(4x4)12 15 2 6 1 14 4 8 5 3 7 0 10 13 9 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.358s elapsed | 372128 expanded | 1111640 generated | solution length: 47
+
+
+BTS on unit STP problem 30
+(4x4)12 8 15 13 1 0 5 4 6 3 2 11 9 7 14 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.202s elapsed | 215894 expanded | 637940 generated | solution length: 50
+
+
+BTS on unit STP problem 31
+(4x4)14 10 9 4 13 6 5 8 2 12 7 0 1 3 11 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 80.28s elapsed | 85024702 expanded | 255075007 generated | solution length: 59
+
+
+BTS on unit STP problem 32
+(4x4)14 3 5 15 11 6 13 9 0 10 2 12 4 1 7 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 14.238s elapsed | 14986948 expanded | 44138069 generated | solution length: 60
+
+
+BTS on unit STP problem 33
+(4x4)6 11 7 8 13 2 5 4 1 10 3 9 14 0 12 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.481s elapsed | 1574609 expanded | 4740056 generated | solution length: 52
+
+
+BTS on unit STP problem 34
+(4x4)1 6 12 14 3 2 15 8 4 5 13 9 0 7 11 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 5.99s elapsed | 6586208 expanded | 19457854 generated | solution length: 55
+
+
+BTS on unit STP problem 35
+(4x4)12 6 0 4 7 3 15 1 13 9 8 11 2 14 5 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.961s elapsed | 2091684 expanded | 6178005 generated | solution length: 52
+
+
+BTS on unit STP problem 36
+(4x4)8 1 7 12 11 0 10 5 9 15 6 13 14 2 3 4
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 9.309s elapsed | 10520701 expanded | 30602001 generated | solution length: 58
+
+
+BTS on unit STP problem 37
+(4x4)7 15 8 2 13 6 3 12 11 0 4 10 9 5 1 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.923s elapsed | 2101465 expanded | 6242021 generated | solution length: 53
+
+
+BTS on unit STP problem 38
+(4x4)9 0 4 10 1 14 15 3 12 6 5 7 11 13 8 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.704s elapsed | 1757328 expanded | 5361218 generated | solution length: 49
+
+
+BTS on unit STP problem 39
+(4x4)11 5 1 14 4 12 10 0 2 7 13 3 9 15 6 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 9.428s elapsed | 9819769 expanded | 29613932 generated | solution length: 54
+
+
+BTS on unit STP problem 40
+(4x4)8 13 10 9 11 3 15 6 0 1 2 14 12 5 4 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 7.849s elapsed | 8156882 expanded | 24945161 generated | solution length: 54
+
+
+BTS on unit STP problem 41
+(4x4)4 5 7 2 9 14 12 13 0 3 6 11 8 1 15 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.031s elapsed | 33257 expanded | 100568 generated | solution length: 42
+
+
+BTS on unit STP problem 42
+(4x4)11 15 14 13 1 9 10 4 3 6 2 12 7 5 8 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 6.648s elapsed | 7722948 expanded | 22230523 generated | solution length: 64
+
+
+BTS on unit STP problem 43
+(4x4)12 9 0 6 8 3 5 14 2 4 11 7 10 1 15 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.592s elapsed | 1685960 expanded | 5003602 generated | solution length: 50
+
+
+BTS on unit STP problem 44
+(4x4)3 14 9 7 12 15 0 4 1 8 5 6 11 10 2 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.235s elapsed | 249961 expanded | 744403 generated | solution length: 51
+
+
+BTS on unit STP problem 45
+(4x4)8 4 6 1 14 12 2 15 13 10 9 5 3 7 0 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.304s elapsed | 337176 expanded | 987039 generated | solution length: 49
+
+
+BTS on unit STP problem 46
+(4x4)6 10 1 14 15 8 3 5 13 0 2 7 4 9 11 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.205s elapsed | 211493 expanded | 636702 generated | solution length: 47
+
+
+BTS on unit STP problem 47
+(4x4)8 11 4 6 7 3 10 9 2 12 15 13 0 1 5 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.097s elapsed | 102281 expanded | 312219 generated | solution length: 49
+
+
+BTS on unit STP problem 48
+(4x4)10 0 2 4 5 1 6 12 11 13 9 7 15 3 14 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 83.826s elapsed | 90843484 expanded | 270323163 generated | solution length: 59
+
+
+BTS on unit STP problem 49
+(4x4)12 5 13 11 2 10 0 9 7 8 4 3 14 6 15 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2.805s elapsed | 3081777 expanded | 9174832 generated | solution length: 53
+
+
+BTS on unit STP problem 50
+(4x4)10 2 8 4 15 0 1 14 11 13 3 6 9 7 5 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2.372s elapsed | 2623938 expanded | 7710386 generated | solution length: 56
+
+
+BTS on unit STP problem 51
+(4x4)10 8 0 12 3 7 6 2 1 14 4 11 15 13 9 5
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 11.578s elapsed | 12922038 expanded | 37960245 generated | solution length: 56
+
+
+BTS on unit STP problem 52
+(4x4)14 9 12 13 15 4 8 10 0 2 1 7 3 11 5 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 250.691s elapsed | 279114381 expanded | 824211576 generated | solution length: 64
+
+
+BTS on unit STP problem 53
+(4x4)12 11 0 8 10 2 13 15 5 4 7 3 6 9 14 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 11.97s elapsed | 13238074 expanded | 39072964 generated | solution length: 56
+
+
+BTS on unit STP problem 54
+(4x4)13 8 14 3 9 1 0 7 15 5 4 10 12 2 6 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.084s elapsed | 85634 expanded | 263625 generated | solution length: 41
+
+
+BTS on unit STP problem 55
+(4x4)3 15 2 5 11 6 4 7 12 9 1 0 13 14 10 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 99.405s elapsed | 106367457 expanded | 316536192 generated | solution length: 55
+
+
+BTS on unit STP problem 56
+(4x4)5 11 6 9 4 13 12 0 8 2 15 10 1 7 3 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.542s elapsed | 1687326 expanded | 5087288 generated | solution length: 50
+
+
+BTS on unit STP problem 57
+(4x4)5 0 15 8 4 6 1 14 10 11 3 9 7 12 2 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.625s elapsed | 1681684 expanded | 5158306 generated | solution length: 51
+
+
+BTS on unit STP problem 58
+(4x4)15 14 6 7 10 1 0 11 12 8 4 9 2 5 13 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 54.034s elapsed | 58257824 expanded | 171719646 generated | solution length: 57
+
+
+BTS on unit STP problem 59
+(4x4)11 14 13 1 2 3 12 4 15 7 9 5 10 6 8 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 87.377s elapsed | 99043030 expanded | 289706939 generated | solution length: 66
+
+
+BTS on unit STP problem 60
+(4x4)6 13 3 2 11 9 5 10 1 7 12 14 8 4 0 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.232s elapsed | 244970 expanded | 730784 generated | solution length: 45
+
+
+BTS on unit STP problem 61
+(4x4)4 6 12 0 14 2 9 13 11 8 3 15 7 10 1 5
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 4.102s elapsed | 4521936 expanded | 13455384 generated | solution length: 57
+
+
+BTS on unit STP problem 62
+(4x4)8 10 9 11 14 1 7 15 13 4 0 12 6 2 5 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 13.98s elapsed | 15202705 expanded | 45994058 generated | solution length: 56
+
+
+BTS on unit STP problem 63
+(4x4)5 2 14 0 7 8 6 3 11 12 13 15 4 10 9 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 20.425s elapsed | 20799546 expanded | 63762357 generated | solution length: 51
+
+
+BTS on unit STP problem 64
+(4x4)7 8 3 2 10 12 4 6 11 13 5 15 0 1 9 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.503s elapsed | 525347 expanded | 1579181 generated | solution length: 47
+
+
+BTS on unit STP problem 65
+(4x4)11 6 14 12 3 5 1 15 8 0 10 13 9 7 4 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 154.789s elapsed | 169431541 expanded | 502238463 generated | solution length: 61
+
+
+BTS on unit STP problem 66
+(4x4)7 1 2 4 8 3 6 11 10 15 0 5 14 12 13 9
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 12.332s elapsed | 12583339 expanded | 38656997 generated | solution length: 50
+
+
+BTS on unit STP problem 67
+(4x4)7 3 1 13 12 10 5 2 8 0 6 11 14 15 4 9
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 7.676s elapsed | 8072767 expanded | 24303053 generated | solution length: 51
+
+
+BTS on unit STP problem 68
+(4x4)6 0 5 15 1 14 4 9 2 13 8 10 11 12 7 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2.876s elapsed | 3135959 expanded | 9214595 generated | solution length: 53
+
+
+BTS on unit STP problem 69
+(4x4)15 1 3 12 4 0 6 5 2 8 14 9 13 10 7 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 16.272s elapsed | 17512197 expanded | 52227698 generated | solution length: 52
+
+
+BTS on unit STP problem 70
+(4x4)5 7 0 11 12 1 9 10 15 6 2 3 8 4 13 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.327s elapsed | 345666 expanded | 1024153 generated | solution length: 44
+
+
+BTS on unit STP problem 71
+(4x4)12 15 11 10 4 5 14 0 13 7 1 2 9 8 3 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 36.579s elapsed | 40947249 expanded | 120220292 generated | solution length: 56
+
+
+BTS on unit STP problem 72
+(4x4)6 14 10 5 15 8 7 1 3 4 2 0 12 9 11 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.152s elapsed | 164024 expanded | 495450 generated | solution length: 49
+
+
+BTS on unit STP problem 73
+(4x4)14 13 4 11 15 8 6 9 0 7 3 1 2 10 12 5
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.563s elapsed | 621090 expanded | 1826074 generated | solution length: 56
+
+
+BTS on unit STP problem 74
+(4x4)14 4 0 10 6 5 1 3 9 2 13 15 12 7 8 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2.797s elapsed | 2905994 expanded | 8880126 generated | solution length: 48
+
+
+BTS on unit STP problem 75
+(4x4)15 10 8 3 0 6 9 5 1 14 13 11 7 2 12 4
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 24.547s elapsed | 26321475 expanded | 79547993 generated | solution length: 57
+
+
+BTS on unit STP problem 76
+(4x4)0 13 2 4 12 14 6 9 15 1 10 3 11 5 8 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2.545s elapsed | 2741322 expanded | 8190188 generated | solution length: 54
+
+
+BTS on unit STP problem 77
+(4x4)3 14 13 6 4 15 8 9 5 12 10 0 2 7 1 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.354s elapsed | 1465936 expanded | 4364619 generated | solution length: 53
+
+
+BTS on unit STP problem 78
+(4x4)0 1 9 7 11 13 5 3 14 12 4 2 8 6 10 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.047s elapsed | 48904 expanded | 149225 generated | solution length: 42
+
+
+BTS on unit STP problem 79
+(4x4)11 0 15 8 13 12 3 5 10 1 4 6 14 9 7 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 18.539s elapsed | 20146081 expanded | 60184310 generated | solution length: 57
+
+
+BTS on unit STP problem 80
+(4x4)13 0 9 12 11 6 3 5 15 8 1 10 4 14 2 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.491s elapsed | 532531 expanded | 1579600 generated | solution length: 53
+
+
+BTS on unit STP problem 81
+(4x4)14 10 2 1 13 9 8 11 7 3 6 12 15 5 4 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 304.003s elapsed | 336395996 expanded | 980036372 generated | solution length: 62
+
+
+BTS on unit STP problem 82
+(4x4)12 3 9 1 4 5 10 2 6 11 15 0 14 7 13 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.652s elapsed | 725463 expanded | 2123063 generated | solution length: 49
+
+
+BTS on unit STP problem 83
+(4x4)15 8 10 7 0 12 14 1 5 9 6 3 13 11 4 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 28.511s elapsed | 31171912 expanded | 92437535 generated | solution length: 55
+
+
+BTS on unit STP problem 84
+(4x4)4 7 13 10 1 2 9 6 12 8 14 5 3 0 11 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.431s elapsed | 448678 expanded | 1374861 generated | solution length: 44
+
+
+BTS on unit STP problem 85
+(4x4)6 0 5 10 11 12 9 2 1 7 4 3 14 8 13 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.118s elapsed | 122397 expanded | 371822 generated | solution length: 45
+
+
+BTS on unit STP problem 86
+(4x4)9 5 11 10 13 0 2 1 8 6 14 12 4 7 3 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 5.654s elapsed | 6217029 expanded | 18335529 generated | solution length: 52
+
+
+BTS on unit STP problem 87
+(4x4)15 2 12 11 14 13 9 5 1 3 8 7 0 10 6 4
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 206.207s elapsed | 235850655 expanded | 685516401 generated | solution length: 65
+
+
+BTS on unit STP problem 88
+(4x4)11 1 7 4 10 13 3 8 9 14 0 15 6 5 2 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 11.864s elapsed | 12406069 expanded | 37708539 generated | solution length: 54
+
+
+BTS on unit STP problem 89
+(4x4)5 4 7 1 11 12 14 15 10 13 8 6 2 0 9 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.214s elapsed | 233786 expanded | 687647 generated | solution length: 50
+
+
+BTS on unit STP problem 90
+(4x4)9 7 5 2 14 15 12 10 11 3 6 1 8 13 0 4
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 46.663s elapsed | 51324592 expanded | 151720906 generated | solution length: 57
+
+
+BTS on unit STP problem 91
+(4x4)3 2 7 9 0 15 12 4 6 11 5 14 8 13 10 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 36.585s elapsed | 40591742 expanded | 118900977 generated | solution length: 57
+
+
+BTS on unit STP problem 92
+(4x4)13 9 14 6 12 8 1 2 3 4 0 7 5 10 11 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.672s elapsed | 687222 expanded | 2108103 generated | solution length: 46
+
+
+BTS on unit STP problem 93
+(4x4)5 7 11 8 0 14 9 13 10 12 3 15 6 1 4 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.17s elapsed | 183547 expanded | 556883 generated | solution length: 53
+
+
+BTS on unit STP problem 94
+(4x4)4 3 6 13 7 15 9 0 10 5 8 11 2 12 1 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.803s elapsed | 1909573 expanded | 5725698 generated | solution length: 50
+
+
+BTS on unit STP problem 95
+(4x4)1 7 15 14 2 6 4 9 12 11 13 3 0 8 5 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.769s elapsed | 825462 expanded | 2467236 generated | solution length: 49
+
+
+BTS on unit STP problem 96
+(4x4)9 14 5 7 8 15 1 2 10 4 13 6 12 0 11 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.278s elapsed | 287007 expanded | 863629 generated | solution length: 44
+
+
+BTS on unit STP problem 97
+(4x4)0 11 3 12 5 2 1 9 8 10 14 15 7 4 13 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 17.209s elapsed | 18353350 expanded | 55276190 generated | solution length: 54
+
+
+BTS on unit STP problem 98
+(4x4)7 15 4 0 10 9 2 5 12 11 13 6 1 3 14 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 10.081s elapsed | 10805812 expanded | 32441297 generated | solution length: 57
+
+
+BTS on unit STP problem 99
+(4x4)11 4 0 8 6 10 5 13 12 7 14 3 1 2 9 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 8.758s elapsed | 9247303 expanded | 28149992 generated | solution length: 54
+
+

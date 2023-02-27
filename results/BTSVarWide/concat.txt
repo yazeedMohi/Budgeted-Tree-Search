@@ -1,0 +1,1250 @@
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 0
+(4x4)14 13 15 7 11 12 9 5 6 0 2 1 4 8 10 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 225.015s elapsed | 233152903 expanded | 691145485 generated | solution length: 66.06262348762353
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 1
+(4x4)13 5 4 10 9 12 8 14 2 3 7 1 0 15 11 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 77.515s elapsed | 80820137 expanded | 241940374 generated | solution length: 64.3966283716284
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 2
+(4x4)14 7 8 2 13 11 10 4 9 12 5 0 3 6 1 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1632.086s elapsed | 1543821372 expanded | 4677600083 generated | solution length: 68.20311077811081
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 3
+(4x4)5 12 10 7 15 11 14 0 8 2 1 13 3 4 9 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 225.024s elapsed | 238221030 expanded | 708591644 generated | solution length: 65.67946359196361
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 4
+(4x4)4 7 14 13 10 3 9 12 11 5 6 15 1 2 8 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 75.212s elapsed | 79108896 expanded | 239340458 generated | solution length: 64.51085997336
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 5
+(4x4)14 7 1 9 12 3 6 15 8 11 2 5 10 0 4 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 37.49s elapsed | 39080272 expanded | 117558031 generated | solution length: 60.34482739482744
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 6
+(4x4)2 11 15 5 13 4 6 7 12 8 10 1 9 3 14 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 348.773s elapsed | 361575989 expanded | 1086696504 generated | solution length: 60.52627372627375
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 7
+(4x4)12 11 15 3 8 0 4 2 6 13 9 5 14 1 10 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 19.245s elapsed | 20289069 expanded | 60213751 generated | solution length: 57.32095682095685
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 8
+(4x4)3 14 9 11 5 4 8 2 13 12 6 7 10 1 15 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.913s elapsed | 923737 expanded | 2779518 generated | solution length: 52.97268148518152
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 9
+(4x4)13 11 8 9 0 15 7 10 4 3 6 14 5 12 2 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1134.846s elapsed | 1205855373 expanded | 3632546681 generated | solution length: 68.90167055167058
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 0
+(4x4)14 13 15 7 11 12 9 5 6 0 2 1 4 8 10 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 225.015s elapsed | 233152903 expanded | 691145485 generated | solution length: 66.06262348762353
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 1
+(4x4)13 5 4 10 9 12 8 14 2 3 7 1 0 15 11 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 77.515s elapsed | 80820137 expanded | 241940374 generated | solution length: 64.3966283716284
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 2
+(4x4)14 7 8 2 13 11 10 4 9 12 5 0 3 6 1 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1632.086s elapsed | 1543821372 expanded | 4677600083 generated | solution length: 68.20311077811081
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 3
+(4x4)5 12 10 7 15 11 14 0 8 2 1 13 3 4 9 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 225.024s elapsed | 238221030 expanded | 708591644 generated | solution length: 65.67946359196361
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 4
+(4x4)4 7 14 13 10 3 9 12 11 5 6 15 1 2 8 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 75.212s elapsed | 79108896 expanded | 239340458 generated | solution length: 64.51085997336
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 5
+(4x4)14 7 1 9 12 3 6 15 8 11 2 5 10 0 4 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 37.49s elapsed | 39080272 expanded | 117558031 generated | solution length: 60.34482739482744
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 6
+(4x4)2 11 15 5 13 4 6 7 12 8 10 1 9 3 14 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 348.773s elapsed | 361575989 expanded | 1086696504 generated | solution length: 60.52627372627375
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 7
+(4x4)12 11 15 3 8 0 4 2 6 13 9 5 14 1 10 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 19.245s elapsed | 20289069 expanded | 60213751 generated | solution length: 57.32095682095685
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 8
+(4x4)3 14 9 11 5 4 8 2 13 12 6 7 10 1 15 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.913s elapsed | 923737 expanded | 2779518 generated | solution length: 52.97268148518152
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 9
+(4x4)13 11 8 9 0 15 7 10 4 3 6 14 5 12 2 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1134.846s elapsed | 1205855373 expanded | 3632546681 generated | solution length: 68.90167055167058
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 10
+(4x4)5 9 13 14 6 3 7 12 10 8 4 0 15 2 11 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 786.647s elapsed | 431435906 expanded | 1288006254 generated | solution length: 67.29884698634703
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 11
+(4x4)14 1 9 6 4 8 12 5 7 2 3 0 10 11 13 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2.06s elapsed | 1217193 expanded | 3687925 generated | solution length: 52.31534021534024
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 12
+(4x4)3 6 5 2 10 0 15 14 1 4 13 12 9 8 11 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 21.727s elapsed | 13083369 expanded | 39095598 generated | solution length: 53.26950688200691
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 13
+(4x4)7 6 8 1 11 5 14 10 3 4 9 13 15 2 0 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 683.555s elapsed | 564367951 expanded | 1674808858 generated | solution length: 68.25373099123102
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 14
+(4x4)13 11 4 12 1 8 9 15 6 5 14 2 7 3 10 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1911.933s elapsed | 1793370574 expanded | 5338183871 generated | solution length: 70.67037684537688
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 15
+(4x4)1 3 2 5 10 9 15 6 8 14 13 11 12 4 7 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 9.314s elapsed | 9203624 expanded | 27943094 generated | solution length: 48.31221139971141
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 16
+(4x4)15 14 0 4 11 1 6 13 7 5 8 9 3 2 10 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 3064.7s elapsed | 3080197747 expanded | 9147646543 generated | solution length: 76.01493228993229
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 17
+(4x4)6 0 14 12 1 15 9 10 11 4 7 2 8 3 5 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 104.484s elapsed | 102064755 expanded | 305658478 generated | solution length: 63.22438117438121
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 18
+(4x4)7 11 8 3 14 0 6 15 1 4 13 9 5 12 2 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 3.268s elapsed | 3118543 expanded | 9597816 generated | solution length: 53.024289599289624
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 19
+(4x4)6 12 11 3 13 7 9 15 2 14 8 10 4 1 5 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 51.645s elapsed | 51213038 expanded | 154249864 generated | solution length: 60.418911643911684
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 20
+(4x4)12 8 14 6 11 4 7 0 5 1 10 15 3 13 9 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 400.582s elapsed | 393824022 expanded | 1187783800 generated | solution length: 63.618810356310384
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 21
+(4x4)14 3 9 1 15 8 4 5 11 7 10 13 0 2 12 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1790.304s elapsed | 1814938339 expanded | 5428741250 generated | solution length: 68.78672854922858
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 22
+(4x4)10 9 3 11 0 13 2 14 5 6 4 7 8 15 1 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 15.426s elapsed | 15265405 expanded | 45745719 generated | solution length: 57.20432622932626
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 23
+(4x4)7 3 14 13 4 1 10 8 5 12 9 11 2 15 6 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 406.56s elapsed | 396230269 expanded | 1214299849 generated | solution length: 62.131407481407514
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 24
+(4x4)11 4 2 7 1 0 10 15 6 9 14 8 3 13 5 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 174.258s elapsed | 176445729 expanded | 525222462 generated | solution length: 59.612898212898244
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 25
+(4x4)5 7 3 12 15 13 14 8 0 10 9 6 1 4 2 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1011.889s elapsed | 1023197935 expanded | 3082863960 generated | solution length: 66.15120296370301
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 26
+(4x4)14 1 8 15 2 6 0 3 9 12 10 13 4 7 5 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 283.541s elapsed | 286105254 expanded | 863086962 generated | solution length: 60.131172993673026
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 27
+(4x4)13 14 6 12 4 5 1 0 9 3 10 2 15 11 8 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 19.953s elapsed | 20165585 expanded | 60437307 generated | solution length: 59.345142357642395
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 28
+(4x4)9 8 0 2 15 1 4 14 3 10 7 5 11 13 6 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 94.912s elapsed | 98072406 expanded | 290584869 generated | solution length: 61.10495754245758
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 29
+(4x4)12 15 2 6 1 14 4 8 5 3 7 0 10 13 9 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 8.598s elapsed | 8682643 expanded | 26105960 generated | solution length: 53.84285853035856
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 30
+(4x4)12 8 15 13 1 0 5 4 6 3 2 11 9 7 14 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 10.376s elapsed | 10811546 expanded | 32065630 generated | solution length: 58.00068265068266
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 31
+(4x4)14 10 9 4 13 6 5 8 2 12 7 0 1 3 11 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 805.611s elapsed | 831434494 expanded | 2503138695 generated | solution length: 68.84093129093131
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 32
+(4x4)14 3 5 15 11 6 13 9 0 10 2 12 4 1 7 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 828.755s elapsed | 854948664 expanded | 2536437497 generated | solution length: 68.99061077811082
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 33
+(4x4)6 11 7 8 13 2 5 4 1 10 3 9 14 0 12 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 22.06s elapsed | 22773444 expanded | 68505408 generated | solution length: 60.56216561216566
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 34
+(4x4)1 6 12 14 3 2 15 8 4 5 13 9 0 7 11 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 255.106s elapsed | 262504885 expanded | 787256778 generated | solution length: 62.4305208680209
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 35
+(4x4)12 6 0 4 7 3 15 1 13 9 8 11 2 14 5 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 29.696s elapsed | 29825123 expanded | 89042447 generated | solution length: 60.42667471417475
+
+
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 37
+(4x4)7 15 8 2 13 6 3 12 11 0 4 10 9 5 1 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 50.485s elapsed | 52162836 expanded | 155860192 generated | solution length: 60.826191863691896
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 38
+(4x4)9 0 4 10 1 14 15 3 12 6 5 7 11 13 8 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 63.243s elapsed | 61781193 expanded | 190035803 generated | solution length: 56.401436063936096
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 39
+(4x4)11 5 1 14 4 12 10 0 2 7 13 3 9 15 6 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 504.269s elapsed | 499451185 expanded | 1512322187 generated | solution length: 62.06190198690203
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 40
+(4x4)8 13 10 9 11 3 15 6 0 1 2 14 12 5 4 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 406.093s elapsed | 407059377 expanded | 1239666721 generated | solution length: 62.685141247641276
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 41
+(4x4)4 5 7 2 9 14 12 13 0 3 6 11 8 1 15 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.386s elapsed | 1333255 expanded | 4050276 generated | solution length: 49.5131216006216
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 42
+(4x4)11 15 14 13 1 9 10 4 3 6 2 12 7 5 8 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 510.639s elapsed | 545093475 expanded | 1604173178 generated | solution length: 72.898871961372
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 43
+(4x4)12 9 0 6 8 3 5 14 2 4 11 7 10 1 15 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 20.299s elapsed | 20179612 expanded | 60353937 generated | solution length: 58.00012348762351
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 44
+(4x4)3 14 9 7 12 15 0 4 1 8 5 6 11 10 2 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 10.065s elapsed | 9886960 expanded | 29627908 generated | solution length: 59.07338494838498
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 45
+(4x4)8 4 6 1 14 12 2 15 13 10 9 5 3 7 0 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 11.741s elapsed | 12036091 expanded | 35718715 generated | solution length: 56.44595682095686
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 46
+(4x4)6 10 1 14 15 8 3 5 13 0 2 7 4 9 11 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2.821s elapsed | 2794617 expanded | 8409810 generated | solution length: 53.78861555111558
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 47
+(4x4)8 11 4 6 7 3 10 9 2 12 15 13 0 1 5 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 4.71s elapsed | 4745048 expanded | 14393709 generated | solution length: 58.165462315462335
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 48
+(4x4)10 0 2 4 5 1 6 12 11 13 9 7 15 3 14 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 5548.648s elapsed | 5563606904 expanded | 16735164615 generated | solution length: 67.50876762126767
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 49
+(4x4)12 5 13 11 2 10 0 9 7 8 4 3 14 6 15 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 126.287s elapsed | 133675034 expanded | 400859805 generated | solution length: 62.67119130869135
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 50
+(4x4)10 2 8 4 15 0 1 14 11 13 3 6 9 7 5 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 208.536s elapsed | 222389140 expanded | 661860984 generated | solution length: 63.779921467421495
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 51
+(4x4)10 8 0 12 3 7 6 2 1 14 4 11 15 13 9 5
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 725.953s elapsed | 778856528 expanded | 2312022732 generated | solution length: 64.63648434898437
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 52
+(4x4)14 9 12 13 15 4 8 10 0 2 1 7 3 11 5 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 4303.689s elapsed | 4646735342 expanded | 13790608785 generated | solution length: 73.45718031968035
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 53
+(4x4)12 11 0 8 10 2 13 15 5 4 7 3 6 9 14 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 179.552s elapsed | 191260945 expanded | 568254913 generated | solution length: 64.78048063048067
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 54
+(4x4)13 8 14 3 9 1 0 7 15 5 4 10 12 2 6 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.239s elapsed | 1229532 expanded | 3773803 generated | solution length: 47.81471861471863
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 55
+(4x4)3 15 2 5 11 6 4 7 12 9 1 0 13 14 10 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2534.405s elapsed | 2387404244 expanded | 7187509859 generated | solution length: 63.45555694305699
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 56
+(4x4)5 11 6 9 4 13 12 0 8 2 15 10 1 7 3 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 51.194s elapsed | 53196908 expanded | 161149157 generated | solution length: 58.357079032079056
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 57
+(4x4)5 0 15 8 4 6 1 14 10 11 3 9 7 12 2 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 23.245s elapsed | 23641096 expanded | 72287477 generated | solution length: 59.041028416028446
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 58
+(4x4)15 14 6 7 10 1 0 11 12 8 4 9 2 5 13 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1060.103s elapsed | 1102689793 expanded | 3268843424 generated | solution length: 65.7743256743257
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 59
+(4x4)11 14 13 1 2 3 12 4 15 7 9 5 10 6 8 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 20353.416s elapsed | 21867838593 expanded | 65107374328 generated | solution length: 75.6719641469642
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 60
+(4x4)6 13 3 2 11 9 5 10 1 7 12 14 8 4 0 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 7.652s elapsed | 7111602 expanded | 21514372 generated | solution length: 51.7567071817072
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 61
+(4x4)4 6 12 0 14 2 9 13 11 8 3 15 7 10 1 5
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 133.741s elapsed | 139228409 expanded | 415987155 generated | solution length: 65.47285908535912
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 62
+(4x4)8 10 9 11 14 1 7 15 13 4 0 12 6 2 5 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 277.692s elapsed | 287352246 expanded | 865274614 generated | solution length: 64.75826950826954
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 63
+(4x4)5 2 14 0 7 8 6 3 11 12 13 15 4 10 9 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 614.096s elapsed | 600105238 expanded | 1843883915 generated | solution length: 59.539903152403184
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 64
+(4x4)7 8 3 2 10 12 4 6 11 13 5 15 0 1 9 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 29.454s elapsed | 29185423 expanded | 88495628 generated | solution length: 55.112894050394075
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 65
+(4x4)11 6 14 12 3 5 1 15 8 0 10 13 9 7 4 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 6009.482s elapsed | 6129915462 expanded | 18315768239 generated | solution length: 70.47596847596851
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 66
+(4x4)7 1 2 4 8 3 6 11 10 15 0 5 14 12 13 9
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 574.892s elapsed | 576167244 expanded | 1770354325 generated | solution length: 57.756630869130916
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 67
+(4x4)7 3 1 13 12 10 5 2 8 0 6 11 14 15 4 9
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 150.594s elapsed | 154657715 expanded | 466128158 generated | solution length: 58.78164613164616
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 68
+(4x4)6 0 5 15 1 14 4 9 2 13 8 10 11 12 7 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 204.564s elapsed | 211379139 expanded | 633562652 generated | solution length: 61.991790154290186
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 69
+(4x4)15 1 3 12 4 0 6 5 2 8 14 9 13 10 7 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 293.201s elapsed | 304564233 expanded | 916047523 generated | solution length: 59.19176934176937
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 70
+(4x4)5 7 0 11 12 1 9 10 15 6 2 3 8 4 13 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 11.819s elapsed | 11311652 expanded | 33723793 generated | solution length: 51.518672993673015
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 71
+(4x4)12 15 11 10 4 5 14 0 13 7 1 2 9 8 3 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 951.29s elapsed | 986703078 expanded | 2924638999 generated | solution length: 64.06304667554672
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 72
+(4x4)6 14 10 5 15 8 7 1 3 4 2 0 12 9 11 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 7.073s elapsed | 7046428 expanded | 21300039 generated | solution length: 57.49478715728718
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 73
+(4x4)14 13 4 11 15 8 6 9 0 7 3 1 2 10 12 5
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 22.825s elapsed | 24087151 expanded | 71380166 generated | solution length: 64.99295565545569
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 74
+(4x4)14 4 0 10 6 5 1 3 9 2 13 15 12 7 8 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 92.205s elapsed | 90614280 expanded | 277149232 generated | solution length: 55.136417748917765
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 75
+(4x4)15 10 8 3 0 6 9 5 1 14 13 11 7 2 12 4
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 737.601s elapsed | 744485679 expanded | 2259925426 generated | solution length: 65.90997890997896
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 76
+(4x4)0 13 2 4 12 14 6 9 15 1 10 3 11 5 8 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 210.945s elapsed | 211619111 expanded | 636325555 generated | solution length: 62.41185481185484
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 77
+(4x4)3 14 13 6 4 15 8 9 5 12 10 0 2 7 1 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 38.369s elapsed | 39233356 expanded | 117130186 generated | solution length: 61.605577755577784
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 78
+(4x4)0 1 9 7 11 13 5 3 14 12 4 2 8 6 10 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.72s elapsed | 1694980 expanded | 5189108 generated | solution length: 48.464343989343995
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 79
+(4x4)11 0 15 8 13 12 3 5 10 1 4 6 14 9 7 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 996.22s elapsed | 853235926 expanded | 2559531755 generated | solution length: 66.36452158952163
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 80
+(4x4)13 0 9 12 11 6 3 5 15 8 1 10 4 14 2 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 12.493s elapsed | 12471381 expanded | 37103351 generated | solution length: 61.38188478188481
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 81
+(4x4)14 10 2 1 13 9 8 11 7 3 6 12 15 5 4 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 3940.834s elapsed | 4104968376 expanded | 12076271530 generated | solution length: 70.80886474636478
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 82
+(4x4)12 3 9 1 4 5 10 2 6 11 15 0 14 7 13 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 10.694s elapsed | 11182057 expanded | 33126774 generated | solution length: 55.84583472083475
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 83
+(4x4)15 8 10 7 0 12 14 1 5 9 6 3 13 11 4 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 441.579s elapsed | 455550222 expanded | 1360400029 generated | solution length: 63.79678654678658
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 84
+(4x4)4 7 13 10 1 2 9 6 12 8 14 5 3 0 11 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 5.192s elapsed | 5202835 expanded | 15896724 generated | solution length: 50.697269397269416
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 85
+(4x4)6 0 5 10 11 12 9 2 1 7 4 3 14 8 13 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 5.077s elapsed | 4977150 expanded | 15138819 generated | solution length: 51.887898212898236
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 86
+(4x4)9 5 11 10 13 0 2 1 8 6 14 12 4 7 3 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 306.569s elapsed | 314045796 expanded | 934459784 generated | solution length: 60.96057831057834
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 87
+(4x4)15 2 12 11 14 13 9 5 1 3 8 7 0 10 6 4
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 8448.678s elapsed | 9005874241 expanded | 26567842789 generated | solution length: 74.38555333555337
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 88
+(4x4)11 1 7 4 10 13 3 8 9 14 0 15 6 5 2 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 167.777s elapsed | 171219120 expanded | 521316965 generated | solution length: 61.63273532023536
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 89
+(4x4)5 4 7 1 11 12 14 15 10 13 8 6 2 0 9 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 16.818s elapsed | 17505162 expanded | 52378375 generated | solution length: 57.45638250638253
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 90
+(4x4)9 7 5 2 14 15 12 10 11 3 6 1 8 13 0 4
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1384.435s elapsed | 1464680100 expanded | 4371493943 generated | solution length: 66.30580253080258
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 91
+(4x4)3 2 7 9 0 15 12 4 6 11 5 14 8 13 10 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1273.314s elapsed | 1318806547 expanded | 3929217942 generated | solution length: 66.31256243756248
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 92
+(4x4)13 9 14 6 12 8 1 2 3 4 0 7 5 10 11 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 12.05s elapsed | 11938245 expanded | 36427285 generated | solution length: 53.747050172050194
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 93
+(4x4)5 7 11 8 0 14 9 13 10 12 3 15 6 1 4 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 7.462s elapsed | 7772385 expanded | 23452256 generated | solution length: 62.05934759684764
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 94
+(4x4)4 3 6 13 7 15 9 0 10 5 8 11 2 12 1 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 33.307s elapsed | 33759311 expanded | 101556459 generated | solution length: 58.65682928182931
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 95
+(4x4)1 7 15 14 2 6 4 9 12 11 13 3 0 8 5 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 26.332s elapsed | 26520463 expanded | 80111913 generated | solution length: 55.849614274614304
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 96
+(4x4)9 14 5 7 8 15 1 2 10 4 13 6 12 0 11 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 6.174s elapsed | 6084121 expanded | 18370667 generated | solution length: 51.64888167388168
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 97
+(4x4)0 11 3 12 5 2 1 9 8 10 14 15 7 4 13 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 745.455s elapsed | 751369452 expanded | 2279965161 generated | solution length: 61.9142260517261
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 98
+(4x4)7 15 4 0 10 9 2 5 12 11 13 6 1 3 14 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 226.046s elapsed | 229820270 expanded | 693841210 generated | solution length: 66.4264360639361
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 99
+(4x4)11 4 0 8 6 10 5 13 12 7 14 3 1 2 9 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 113.105s elapsed | 114120821 expanded | 347756849 generated | solution length: 62.61000388500392
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 0
+(4x4)14 13 15 7 11 12 9 5 6 0 2 1 4 8 10 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 225.015s elapsed | 233152903 expanded | 691145485 generated | solution length: 66.06262348762353
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 1
+(4x4)13 5 4 10 9 12 8 14 2 3 7 1 0 15 11 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 77.515s elapsed | 80820137 expanded | 241940374 generated | solution length: 64.3966283716284
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 2
+(4x4)14 7 8 2 13 11 10 4 9 12 5 0 3 6 1 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1632.086s elapsed | 1543821372 expanded | 4677600083 generated | solution length: 68.20311077811081
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 3
+(4x4)5 12 10 7 15 11 14 0 8 2 1 13 3 4 9 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 225.024s elapsed | 238221030 expanded | 708591644 generated | solution length: 65.67946359196361
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 4
+(4x4)4 7 14 13 10 3 9 12 11 5 6 15 1 2 8 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 75.212s elapsed | 79108896 expanded | 239340458 generated | solution length: 64.51085997336
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 5
+(4x4)14 7 1 9 12 3 6 15 8 11 2 5 10 0 4 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 37.49s elapsed | 39080272 expanded | 117558031 generated | solution length: 60.34482739482744
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 6
+(4x4)2 11 15 5 13 4 6 7 12 8 10 1 9 3 14 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 348.773s elapsed | 361575989 expanded | 1086696504 generated | solution length: 60.52627372627375
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 7
+(4x4)12 11 15 3 8 0 4 2 6 13 9 5 14 1 10 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 19.245s elapsed | 20289069 expanded | 60213751 generated | solution length: 57.32095682095685
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 8
+(4x4)3 14 9 11 5 4 8 2 13 12 6 7 10 1 15 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 0.913s elapsed | 923737 expanded | 2779518 generated | solution length: 52.97268148518152
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 9
+(4x4)13 11 8 9 0 15 7 10 4 3 6 14 5 12 2 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1134.846s elapsed | 1205855373 expanded | 3632546681 generated | solution length: 68.90167055167058
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 10
+(4x4)5 9 13 14 6 3 7 12 10 8 4 0 15 2 11 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 786.647s elapsed | 431435906 expanded | 1288006254 generated | solution length: 67.29884698634703
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 11
+(4x4)14 1 9 6 4 8 12 5 7 2 3 0 10 11 13 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2.06s elapsed | 1217193 expanded | 3687925 generated | solution length: 52.31534021534024
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 12
+(4x4)3 6 5 2 10 0 15 14 1 4 13 12 9 8 11 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 21.727s elapsed | 13083369 expanded | 39095598 generated | solution length: 53.26950688200691
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 13
+(4x4)7 6 8 1 11 5 14 10 3 4 9 13 15 2 0 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 683.555s elapsed | 564367951 expanded | 1674808858 generated | solution length: 68.25373099123102
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 14
+(4x4)13 11 4 12 1 8 9 15 6 5 14 2 7 3 10 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1911.933s elapsed | 1793370574 expanded | 5338183871 generated | solution length: 70.67037684537688
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 15
+(4x4)1 3 2 5 10 9 15 6 8 14 13 11 12 4 7 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 9.314s elapsed | 9203624 expanded | 27943094 generated | solution length: 48.31221139971141
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 16
+(4x4)15 14 0 4 11 1 6 13 7 5 8 9 3 2 10 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 3064.7s elapsed | 3080197747 expanded | 9147646543 generated | solution length: 76.01493228993229
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 17
+(4x4)6 0 14 12 1 15 9 10 11 4 7 2 8 3 5 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 104.484s elapsed | 102064755 expanded | 305658478 generated | solution length: 63.22438117438121
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 18
+(4x4)7 11 8 3 14 0 6 15 1 4 13 9 5 12 2 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 3.268s elapsed | 3118543 expanded | 9597816 generated | solution length: 53.024289599289624
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 19
+(4x4)6 12 11 3 13 7 9 15 2 14 8 10 4 1 5 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 51.645s elapsed | 51213038 expanded | 154249864 generated | solution length: 60.418911643911684
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 20
+(4x4)12 8 14 6 11 4 7 0 5 1 10 15 3 13 9 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 400.582s elapsed | 393824022 expanded | 1187783800 generated | solution length: 63.618810356310384
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 21
+(4x4)14 3 9 1 15 8 4 5 11 7 10 13 0 2 12 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1790.304s elapsed | 1814938339 expanded | 5428741250 generated | solution length: 68.78672854922858
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 22
+(4x4)10 9 3 11 0 13 2 14 5 6 4 7 8 15 1 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 15.426s elapsed | 15265405 expanded | 45745719 generated | solution length: 57.20432622932626
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 23
+(4x4)7 3 14 13 4 1 10 8 5 12 9 11 2 15 6 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 406.56s elapsed | 396230269 expanded | 1214299849 generated | solution length: 62.131407481407514
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 24
+(4x4)11 4 2 7 1 0 10 15 6 9 14 8 3 13 5 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 174.258s elapsed | 176445729 expanded | 525222462 generated | solution length: 59.612898212898244
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 25
+(4x4)5 7 3 12 15 13 14 8 0 10 9 6 1 4 2 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1011.889s elapsed | 1023197935 expanded | 3082863960 generated | solution length: 66.15120296370301
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 26
+(4x4)14 1 8 15 2 6 0 3 9 12 10 13 4 7 5 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 283.541s elapsed | 286105254 expanded | 863086962 generated | solution length: 60.131172993673026
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 27
+(4x4)13 14 6 12 4 5 1 0 9 3 10 2 15 11 8 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 19.953s elapsed | 20165585 expanded | 60437307 generated | solution length: 59.345142357642395
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 28
+(4x4)9 8 0 2 15 1 4 14 3 10 7 5 11 13 6 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 94.912s elapsed | 98072406 expanded | 290584869 generated | solution length: 61.10495754245758
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 29
+(4x4)12 15 2 6 1 14 4 8 5 3 7 0 10 13 9 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 8.598s elapsed | 8682643 expanded | 26105960 generated | solution length: 53.84285853035856
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 30
+(4x4)12 8 15 13 1 0 5 4 6 3 2 11 9 7 14 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 10.376s elapsed | 10811546 expanded | 32065630 generated | solution length: 58.00068265068266
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 31
+(4x4)14 10 9 4 13 6 5 8 2 12 7 0 1 3 11 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 805.611s elapsed | 831434494 expanded | 2503138695 generated | solution length: 68.84093129093131
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 32
+(4x4)14 3 5 15 11 6 13 9 0 10 2 12 4 1 7 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 828.755s elapsed | 854948664 expanded | 2536437497 generated | solution length: 68.99061077811082
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 33
+(4x4)6 11 7 8 13 2 5 4 1 10 3 9 14 0 12 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 22.06s elapsed | 22773444 expanded | 68505408 generated | solution length: 60.56216561216566
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 34
+(4x4)1 6 12 14 3 2 15 8 4 5 13 9 0 7 11 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 255.106s elapsed | 262504885 expanded | 787256778 generated | solution length: 62.4305208680209
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 35
+(4x4)12 6 0 4 7 3 15 1 13 9 8 11 2 14 5 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 29.696s elapsed | 29825123 expanded | 89042447 generated | solution length: 60.42667471417475
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 37
+(4x4)7 15 8 2 13 6 3 12 11 0 4 10 9 5 1 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 50.485s elapsed | 52162836 expanded | 155860192 generated | solution length: 60.826191863691896
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 38
+(4x4)9 0 4 10 1 14 15 3 12 6 5 7 11 13 8 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 63.243s elapsed | 61781193 expanded | 190035803 generated | solution length: 56.401436063936096
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 39
+(4x4)11 5 1 14 4 12 10 0 2 7 13 3 9 15 6 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 504.269s elapsed | 499451185 expanded | 1512322187 generated | solution length: 62.06190198690203
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 40
+(4x4)8 13 10 9 11 3 15 6 0 1 2 14 12 5 4 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 406.093s elapsed | 407059377 expanded | 1239666721 generated | solution length: 62.685141247641276
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 41
+(4x4)4 5 7 2 9 14 12 13 0 3 6 11 8 1 15 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.386s elapsed | 1333255 expanded | 4050276 generated | solution length: 49.5131216006216
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 42
+(4x4)11 15 14 13 1 9 10 4 3 6 2 12 7 5 8 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 510.639s elapsed | 545093475 expanded | 1604173178 generated | solution length: 72.898871961372
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 43
+(4x4)12 9 0 6 8 3 5 14 2 4 11 7 10 1 15 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 20.299s elapsed | 20179612 expanded | 60353937 generated | solution length: 58.00012348762351
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 44
+(4x4)3 14 9 7 12 15 0 4 1 8 5 6 11 10 2 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 10.065s elapsed | 9886960 expanded | 29627908 generated | solution length: 59.07338494838498
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 45
+(4x4)8 4 6 1 14 12 2 15 13 10 9 5 3 7 0 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 11.741s elapsed | 12036091 expanded | 35718715 generated | solution length: 56.44595682095686
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 46
+(4x4)6 10 1 14 15 8 3 5 13 0 2 7 4 9 11 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2.821s elapsed | 2794617 expanded | 8409810 generated | solution length: 53.78861555111558
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 47
+(4x4)8 11 4 6 7 3 10 9 2 12 15 13 0 1 5 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 4.71s elapsed | 4745048 expanded | 14393709 generated | solution length: 58.165462315462335
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 48
+(4x4)10 0 2 4 5 1 6 12 11 13 9 7 15 3 14 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 5548.648s elapsed | 5563606904 expanded | 16735164615 generated | solution length: 67.50876762126767
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 49
+(4x4)12 5 13 11 2 10 0 9 7 8 4 3 14 6 15 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 126.287s elapsed | 133675034 expanded | 400859805 generated | solution length: 62.67119130869135
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 50
+(4x4)10 2 8 4 15 0 1 14 11 13 3 6 9 7 5 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 208.536s elapsed | 222389140 expanded | 661860984 generated | solution length: 63.779921467421495
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 51
+(4x4)10 8 0 12 3 7 6 2 1 14 4 11 15 13 9 5
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 725.953s elapsed | 778856528 expanded | 2312022732 generated | solution length: 64.63648434898437
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 52
+(4x4)14 9 12 13 15 4 8 10 0 2 1 7 3 11 5 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 4303.689s elapsed | 4646735342 expanded | 13790608785 generated | solution length: 73.45718031968035
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 53
+(4x4)12 11 0 8 10 2 13 15 5 4 7 3 6 9 14 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 179.552s elapsed | 191260945 expanded | 568254913 generated | solution length: 64.78048063048067
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 54
+(4x4)13 8 14 3 9 1 0 7 15 5 4 10 12 2 6 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.239s elapsed | 1229532 expanded | 3773803 generated | solution length: 47.81471861471863
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 55
+(4x4)3 15 2 5 11 6 4 7 12 9 1 0 13 14 10 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2534.405s elapsed | 2387404244 expanded | 7187509859 generated | solution length: 63.45555694305699
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 56
+(4x4)5 11 6 9 4 13 12 0 8 2 15 10 1 7 3 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 51.194s elapsed | 53196908 expanded | 161149157 generated | solution length: 58.357079032079056
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 57
+(4x4)5 0 15 8 4 6 1 14 10 11 3 9 7 12 2 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 23.245s elapsed | 23641096 expanded | 72287477 generated | solution length: 59.041028416028446
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 58
+(4x4)15 14 6 7 10 1 0 11 12 8 4 9 2 5 13 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1060.103s elapsed | 1102689793 expanded | 3268843424 generated | solution length: 65.7743256743257
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 59
+(4x4)11 14 13 1 2 3 12 4 15 7 9 5 10 6 8 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 20353.416s elapsed | 21867838593 expanded | 65107374328 generated | solution length: 75.6719641469642
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 60
+(4x4)6 13 3 2 11 9 5 10 1 7 12 14 8 4 0 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 7.652s elapsed | 7111602 expanded | 21514372 generated | solution length: 51.7567071817072
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 61
+(4x4)4 6 12 0 14 2 9 13 11 8 3 15 7 10 1 5
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 133.741s elapsed | 139228409 expanded | 415987155 generated | solution length: 65.47285908535912
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 62
+(4x4)8 10 9 11 14 1 7 15 13 4 0 12 6 2 5 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 277.692s elapsed | 287352246 expanded | 865274614 generated | solution length: 64.75826950826954
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 63
+(4x4)5 2 14 0 7 8 6 3 11 12 13 15 4 10 9 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 614.096s elapsed | 600105238 expanded | 1843883915 generated | solution length: 59.539903152403184
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 64
+(4x4)7 8 3 2 10 12 4 6 11 13 5 15 0 1 9 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 29.454s elapsed | 29185423 expanded | 88495628 generated | solution length: 55.112894050394075
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 65
+(4x4)11 6 14 12 3 5 1 15 8 0 10 13 9 7 4 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 6009.482s elapsed | 6129915462 expanded | 18315768239 generated | solution length: 70.47596847596851
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 66
+(4x4)7 1 2 4 8 3 6 11 10 15 0 5 14 12 13 9
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 574.892s elapsed | 576167244 expanded | 1770354325 generated | solution length: 57.756630869130916
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 67
+(4x4)7 3 1 13 12 10 5 2 8 0 6 11 14 15 4 9
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 150.594s elapsed | 154657715 expanded | 466128158 generated | solution length: 58.78164613164616
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 68
+(4x4)6 0 5 15 1 14 4 9 2 13 8 10 11 12 7 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 204.564s elapsed | 211379139 expanded | 633562652 generated | solution length: 61.991790154290186
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 69
+(4x4)15 1 3 12 4 0 6 5 2 8 14 9 13 10 7 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 293.201s elapsed | 304564233 expanded | 916047523 generated | solution length: 59.19176934176937
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 70
+(4x4)5 7 0 11 12 1 9 10 15 6 2 3 8 4 13 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 11.819s elapsed | 11311652 expanded | 33723793 generated | solution length: 51.518672993673015
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 71
+(4x4)12 15 11 10 4 5 14 0 13 7 1 2 9 8 3 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 951.29s elapsed | 986703078 expanded | 2924638999 generated | solution length: 64.06304667554672
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 72
+(4x4)6 14 10 5 15 8 7 1 3 4 2 0 12 9 11 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 7.073s elapsed | 7046428 expanded | 21300039 generated | solution length: 57.49478715728718
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 73
+(4x4)14 13 4 11 15 8 6 9 0 7 3 1 2 10 12 5
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 22.825s elapsed | 24087151 expanded | 71380166 generated | solution length: 64.99295565545569
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 74
+(4x4)14 4 0 10 6 5 1 3 9 2 13 15 12 7 8 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 92.205s elapsed | 90614280 expanded | 277149232 generated | solution length: 55.136417748917765
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 75
+(4x4)15 10 8 3 0 6 9 5 1 14 13 11 7 2 12 4
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 737.601s elapsed | 744485679 expanded | 2259925426 generated | solution length: 65.90997890997896
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 76
+(4x4)0 13 2 4 12 14 6 9 15 1 10 3 11 5 8 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 210.945s elapsed | 211619111 expanded | 636325555 generated | solution length: 62.41185481185484
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 77
+(4x4)3 14 13 6 4 15 8 9 5 12 10 0 2 7 1 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 38.369s elapsed | 39233356 expanded | 117130186 generated | solution length: 61.605577755577784
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 78
+(4x4)0 1 9 7 11 13 5 3 14 12 4 2 8 6 10 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1.72s elapsed | 1694980 expanded | 5189108 generated | solution length: 48.464343989343995
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 79
+(4x4)11 0 15 8 13 12 3 5 10 1 4 6 14 9 7 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 996.22s elapsed | 853235926 expanded | 2559531755 generated | solution length: 66.36452158952163
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 80
+(4x4)13 0 9 12 11 6 3 5 15 8 1 10 4 14 2 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 12.493s elapsed | 12471381 expanded | 37103351 generated | solution length: 61.38188478188481
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 81
+(4x4)14 10 2 1 13 9 8 11 7 3 6 12 15 5 4 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 3940.834s elapsed | 4104968376 expanded | 12076271530 generated | solution length: 70.80886474636478
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 82
+(4x4)12 3 9 1 4 5 10 2 6 11 15 0 14 7 13 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 10.694s elapsed | 11182057 expanded | 33126774 generated | solution length: 55.84583472083475
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 83
+(4x4)15 8 10 7 0 12 14 1 5 9 6 3 13 11 4 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 441.579s elapsed | 455550222 expanded | 1360400029 generated | solution length: 63.79678654678658
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 84
+(4x4)4 7 13 10 1 2 9 6 12 8 14 5 3 0 11 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 5.192s elapsed | 5202835 expanded | 15896724 generated | solution length: 50.697269397269416
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 85
+(4x4)6 0 5 10 11 12 9 2 1 7 4 3 14 8 13 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 5.077s elapsed | 4977150 expanded | 15138819 generated | solution length: 51.887898212898236
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 86
+(4x4)9 5 11 10 13 0 2 1 8 6 14 12 4 7 3 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 306.569s elapsed | 314045796 expanded | 934459784 generated | solution length: 60.96057831057834
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 87
+(4x4)15 2 12 11 14 13 9 5 1 3 8 7 0 10 6 4
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 8448.678s elapsed | 9005874241 expanded | 26567842789 generated | solution length: 74.38555333555337
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 88
+(4x4)11 1 7 4 10 13 3 8 9 14 0 15 6 5 2 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 167.777s elapsed | 171219120 expanded | 521316965 generated | solution length: 61.63273532023536
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 89
+(4x4)5 4 7 1 11 12 14 15 10 13 8 6 2 0 9 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 16.818s elapsed | 17505162 expanded | 52378375 generated | solution length: 57.45638250638253
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 90
+(4x4)9 7 5 2 14 15 12 10 11 3 6 1 8 13 0 4
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1384.435s elapsed | 1464680100 expanded | 4371493943 generated | solution length: 66.30580253080258
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 91
+(4x4)3 2 7 9 0 15 12 4 6 11 5 14 8 13 10 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 1273.314s elapsed | 1318806547 expanded | 3929217942 generated | solution length: 66.31256243756248
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 92
+(4x4)13 9 14 6 12 8 1 2 3 4 0 7 5 10 11 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 12.05s elapsed | 11938245 expanded | 36427285 generated | solution length: 53.747050172050194
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 93
+(4x4)5 7 11 8 0 14 9 13 10 12 3 15 6 1 4 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 7.462s elapsed | 7772385 expanded | 23452256 generated | solution length: 62.05934759684764
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 94
+(4x4)4 3 6 13 7 15 9 0 10 5 8 11 2 12 1 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 33.307s elapsed | 33759311 expanded | 101556459 generated | solution length: 58.65682928182931
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 95
+(4x4)1 7 15 14 2 6 4 9 12 11 13 3 0 8 5 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 26.332s elapsed | 26520463 expanded | 80111913 generated | solution length: 55.849614274614304
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 96
+(4x4)9 14 5 7 8 15 1 2 10 4 13 6 12 0 11 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 6.174s elapsed | 6084121 expanded | 18370667 generated | solution length: 51.64888167388168
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 97
+(4x4)0 11 3 12 5 2 1 9 8 10 14 15 7 4 13 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 745.455s elapsed | 751369452 expanded | 2279965161 generated | solution length: 61.9142260517261
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 98
+(4x4)7 15 4 0 10 9 2 5 12 11 13 6 1 3 14 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 226.046s elapsed | 229820270 expanded | 693841210 generated | solution length: 66.4264360639361
+
+
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 99
+(4x4)11 4 0 8 6 10 5 13 12 7 14 3 1 2 9 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 113.105s elapsed | 114120821 expanded | 347756849 generated | solution length: 62.61000388500392
+
+

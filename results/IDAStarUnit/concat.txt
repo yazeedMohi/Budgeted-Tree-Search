@@ -1,0 +1,1396 @@
+IDA* on unit STP problem 0
+(4x4)14 13 15 7 11 12 9 5 6 0 2 1 4 8 10 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 43.0 | 0 expanded | 0 generated
+F bound current: 45.0 | 12 expanded | 34 generated
+F bound current: 47.0 | 91 expanded | 253 generated
+F bound current: 49.0 | 875 expanded | 2493 generated
+F bound current: 51.0 | 7597 expanded | 21915 generated
+F bound current: 53.0 | 58224 expanded | 169363 generated
+F bound current: 55.0 | 412350 expanded | 1204734 generated
+F bound current: 57.0 | 2785129 expanded | 8168276 generated
+Time: 11.948s elapsed | 12376518 expanded | 36475950 generated | solution length: 57.0
+
+
+IDA* on unit STP problem 1
+(4x4)13 5 4 10 9 12 8 14 2 3 7 1 0 15 11 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 43.0 | 0 expanded | 0 generated
+F bound current: 45.0 | 1 expanded | 2 generated
+F bound current: 47.0 | 132 expanded | 367 generated
+F bound current: 49.0 | 2502 expanded | 7132 generated
+F bound current: 51.0 | 25891 expanded | 75383 generated
+F bound current: 53.0 | 219395 expanded | 646433 generated
+F bound current: 55.0 | 1634654 expanded | 4857386 generated
+Time: 2.226s elapsed | 2428687 expanded | 7209544 generated | solution length: 55
+
+
+IDA* on unit STP problem 2
+(4x4)14 7 8 2 13 11 10 4 9 12 5 0 3 6 1 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 41.0 | 0 expanded | 0 generated
+F bound current: 43.0 | 1 expanded | 3 generated
+F bound current: 45.0 | 16 expanded | 47 generated
+F bound current: 47.0 | 246 expanded | 725 generated
+F bound current: 49.0 | 2297 expanded | 6774 generated
+F bound current: 51.0 | 19246 expanded | 57526 generated
+F bound current: 53.0 | 149608 expanded | 450167 generated
+F bound current: 55.0 | 1087728 expanded | 3283805 generated
+F bound current: 57.0 | 7436369 expanded | 22488109 generated
+F bound current: 59.0 | 48408014 expanded | 146561139 generated
+Time: 53.858s elapsed | 58010838 expanded | 175421831 generated | solution length: 59
+
+
+IDA* on unit STP problem 3
+(4x4)5 12 10 7 15 11 14 0 8 2 1 13 3 4 9 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 42.0 | 0 expanded | 0 generated
+F bound current: 44.0 | 2 expanded | 5 generated
+F bound current: 46.0 | 36 expanded | 104 generated
+F bound current: 48.0 | 593 expanded | 1757 generated
+F bound current: 50.0 | 5694 expanded | 16857 generated
+F bound current: 52.0 | 49136 expanded | 145064 generated
+F bound current: 54.0 | 384927 expanded | 1136911 generated
+F bound current: 56.0 | 2788117 expanded | 8245456 generated
+Time: 4.129s elapsed | 4382435 expanded | 12966232 generated | solution length: 56
+
+
+IDA* on unit STP problem 4
+(4x4)4 7 14 13 10 3 9 12 11 5 6 15 1 2 8 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 44.0 | 0 expanded | 0 generated
+F bound current: 46.0 | 17 expanded | 49 generated
+F bound current: 48.0 | 247 expanded | 726 generated
+F bound current: 50.0 | 2133 expanded | 6288 generated
+F bound current: 52.0 | 17944 expanded | 53358 generated
+F bound current: 54.0 | 153242 expanded | 458202 generated
+F bound current: 56.0 | 1238994 expanded | 3722943 generated
+Time: 1.892s elapsed | 2002556 expanded | 6000628 generated | solution length: 56
+
+
+IDA* on unit STP problem 5
+(4x4)14 7 1 9 12 3 6 15 8 11 2 5 10 0 4 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 40.0 | 0 expanded | 0 generated
+F bound current: 42.0 | 4 expanded | 10 generated
+F bound current: 44.0 | 77 expanded | 221 generated
+F bound current: 46.0 | 636 expanded | 1855 generated
+F bound current: 48.0 | 5874 expanded | 17279 generated
+F bound current: 50.0 | 47214 expanded | 140248 generated
+F bound current: 52.0 | 350171 expanded | 1046905 generated
+Time: 0.688s elapsed | 731010 expanded | 2185070 generated | solution length: 52
+
+
+IDA* on unit STP problem 6
+(4x4)2 11 15 5 13 4 6 7 12 8 10 1 9 3 14 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 30.0 | 0 expanded | 0 generated
+F bound current: 32.0 | 1 expanded | 2 generated
+F bound current: 34.0 | 13 expanded | 37 generated
+F bound current: 36.0 | 51 expanded | 149 generated
+F bound current: 38.0 | 226 expanded | 667 generated
+F bound current: 40.0 | 930 expanded | 2749 generated
+F bound current: 42.0 | 4223 expanded | 12512 generated
+F bound current: 44.0 | 19830 expanded | 58746 generated
+F bound current: 46.0 | 94834 expanded | 281116 generated
+F bound current: 48.0 | 460039 expanded | 1365310 generated
+F bound current: 50.0 | 2257719 expanded | 6709674 generated
+F bound current: 52.0 | 11137885 expanded | 33155539 generated
+Time: 19.498s elapsed | 20843580 expanded | 62234726 generated | solution length: 52
+
+
+IDA* on unit STP problem 7
+(4x4)12 11 15 3 8 0 4 2 6 13 9 5 14 1 10 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 36.0 | 0 expanded | 0 generated
+F bound current: 38.0 | 12 expanded | 34 generated
+F bound current: 40.0 | 115 expanded | 333 generated
+F bound current: 42.0 | 761 expanded | 2229 generated
+F bound current: 44.0 | 4396 expanded | 12870 generated
+F bound current: 46.0 | 24198 expanded | 70951 generated
+F bound current: 48.0 | 129264 expanded | 379371 generated
+F bound current: 50.0 | 690688 expanded | 2032074 generated
+Time: 1.771s elapsed | 1938605 expanded | 5726190 generated | solution length: 50
+
+
+IDA* on unit STP problem 8
+(4x4)3 14 9 11 5 4 8 2 13 12 6 7 10 1 15 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 36.0 | 0 expanded | 0 generated
+F bound current: 38.0 | 2 expanded | 5 generated
+F bound current: 40.0 | 163 expanded | 480 generated
+F bound current: 42.0 | 1037 expanded | 3074 generated
+F bound current: 44.0 | 6106 expanded | 18140 generated
+F bound current: 46.0 | 37350 expanded | 111628 generated
+Time: 0.108s elapsed | 109993 expanded | 329939 generated | solution length: 46
+
+
+IDA* on unit STP problem 9
+(4x4)13 11 8 9 0 15 7 10 4 3 6 14 5 12 2 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 45.0 | 0 expanded | 0 generated
+F bound current: 47.0 | 39 expanded | 110 generated
+F bound current: 49.0 | 489 expanded | 1436 generated
+F bound current: 51.0 | 5745 expanded | 16979 generated
+F bound current: 53.0 | 49993 expanded | 148656 generated
+F bound current: 55.0 | 403426 expanded | 1207951 generated
+F bound current: 57.0 | 2952247 expanded | 8872267 generated
+F bound current: 59.0 | 20175329 expanded | 60793946 generated
+Time: 57.183s elapsed | 61501316 expanded | 184988242 generated | solution length: 59
+
+
+IDA* on unit STP problem 10
+(4x4)5 9 13 14 6 3 7 12 10 8 4 0 15 2 11 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 45.0 | 0 expanded | 0 generated
+F bound current: 47.0 | 85 expanded | 243 generated
+F bound current: 49.0 | 747 expanded | 2165 generated
+F bound current: 51.0 | 5780 expanded | 16908 generated
+F bound current: 53.0 | 41809 expanded | 123116 generated
+F bound current: 55.0 | 297129 expanded | 878910 generated
+F bound current: 57.0 | 2033924 expanded | 6040653 generated
+Time: 8.183s elapsed | 8989904 expanded | 26733281 generated | solution length: 57
+
+
+IDA* on unit STP problem 11
+(4x4)14 1 9 6 4 8 12 5 7 2 3 0 10 11 13 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 35.0 | 0 expanded | 0 generated
+F bound current: 37.0 | 21 expanded | 64 generated
+F bound current: 39.0 | 121 expanded | 362 generated
+F bound current: 41.0 | 643 expanded | 1921 generated
+F bound current: 43.0 | 3370 expanded | 10144 generated
+F bound current: 45.0 | 18726 expanded | 56545 generated
+Time: 0.023s elapsed | 23032 expanded | 69641 generated | solution length: 45
+
+
+IDA* on unit STP problem 12
+(4x4)3 6 5 2 10 0 15 14 1 4 13 12 9 8 11 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 38.0 | 0 expanded | 0 generated
+F bound current: 40.0 | 202 expanded | 574 generated
+F bound current: 42.0 | 2770 expanded | 7969 generated
+F bound current: 44.0 | 23136 expanded | 67098 generated
+F bound current: 46.0 | 157522 expanded | 459554 generated
+Time: 0.237s elapsed | 256117 expanded | 748680 generated | solution length: 46
+
+
+IDA* on unit STP problem 13
+(4x4)7 6 8 1 11 5 14 10 3 4 9 13 15 2 0 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 43.0 | 0 expanded | 0 generated
+F bound current: 45.0 | 4 expanded | 11 generated
+F bound current: 47.0 | 33 expanded | 93 generated
+F bound current: 49.0 | 519 expanded | 1524 generated
+F bound current: 51.0 | 3619 expanded | 10498 generated
+F bound current: 53.0 | 23940 expanded | 69781 generated
+F bound current: 55.0 | 162108 expanded | 473510 generated
+F bound current: 57.0 | 1068920 expanded | 3128347 generated
+F bound current: 59.0 | 6925189 expanded | 20318105 generated
+Time: 23.609s elapsed | 26375197 expanded | 77648273 generated | solution length: 59
+
+
+IDA* on unit STP problem 14
+(4x4)13 11 4 12 1 8 9 15 6 5 14 2 7 3 10 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 46.0 | 0 expanded | 0 generated
+F bound current: 48.0 | 13 expanded | 36 generated
+F bound current: 50.0 | 152 expanded | 432 generated
+F bound current: 52.0 | 1315 expanded | 3784 generated
+F bound current: 54.0 | 10067 expanded | 29147 generated
+F bound current: 56.0 | 75994 expanded | 220953 generated
+F bound current: 58.0 | 558906 expanded | 1632676 generated
+F bound current: 60.0 | 4022317 expanded | 11797667 generated
+F bound current: 62.0 | 28182038 expanded | 82950599 generated
+Time: 28.791s elapsed | 32208679 expanded | 94946680 generated | solution length: 62
+
+
+IDA* on unit STP problem 15
+(4x4)1 3 2 5 10 9 15 6 8 14 13 11 12 4 7 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 26.0 | 0 expanded | 0 generated
+F bound current: 28.0 | 1 expanded | 2 generated
+F bound current: 30.0 | 30 expanded | 86 generated
+F bound current: 32.0 | 156 expanded | 455 generated
+F bound current: 34.0 | 730 expanded | 2142 generated
+F bound current: 36.0 | 3382 expanded | 10016 generated
+F bound current: 38.0 | 15033 expanded | 44576 generated
+F bound current: 40.0 | 67334 expanded | 200362 generated
+F bound current: 42.0 | 301574 expanded | 900417 generated
+Time: 0.47s elapsed | 493423 expanded | 1474750 generated | solution length: 42
+
+
+IDA* on unit STP problem 16
+(4x4)15 14 0 4 11 1 6 13 7 5 8 9 3 2 10 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 46.0 | 0 expanded | 0 generated
+F bound current: 48.0 | 2 expanded | 5 generated
+F bound current: 50.0 | 21 expanded | 60 generated
+F bound current: 52.0 | 95 expanded | 271 generated
+F bound current: 54.0 | 450 expanded | 1303 generated
+F bound current: 56.0 | 2527 expanded | 7299 generated
+F bound current: 58.0 | 14836 expanded | 43010 generated
+F bound current: 60.0 | 95511 expanded | 277812 generated
+F bound current: 62.0 | 637063 expanded | 1856699 generated
+F bound current: 64.0 | 4389094 expanded | 12816836 generated
+F bound current: 66.0 | 30761404 expanded | 89997258 generated
+Time: 45.653s elapsed | 51533481 expanded | 151037203 generated | solution length: 66
+
+
+IDA* on unit STP problem 17
+(4x4)6 0 14 12 1 15 9 10 11 4 7 2 8 3 5 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 43.0 | 0 expanded | 0 generated
+F bound current: 45.0 | 3 expanded | 8 generated
+F bound current: 47.0 | 94 expanded | 271 generated
+F bound current: 49.0 | 910 expanded | 2637 generated
+F bound current: 51.0 | 7910 expanded | 22953 generated
+F bound current: 53.0 | 70998 expanded | 207426 generated
+F bound current: 55.0 | 574859 expanded | 1685930 generated
+Time: 2.654s elapsed | 2903413 expanded | 8564196 generated | solution length: 55
+
+
+IDA* on unit STP problem 18
+(4x4)7 11 8 3 14 0 6 15 1 4 13 9 5 12 2 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 38.0 | 0 expanded | 0 generated
+F bound current: 40.0 | 258 expanded | 781 generated
+F bound current: 42.0 | 2722 expanded | 8320 generated
+F bound current: 44.0 | 19236 expanded | 58944 generated
+F bound current: 46.0 | 125171 expanded | 384501 generated
+Time: 0.322s elapsed | 326002 expanded | 1003400 generated | solution length: 46
+
+
+IDA* on unit STP problem 19
+(4x4)6 12 11 3 13 7 9 15 2 14 8 10 4 1 5 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 36.0 | 0 expanded | 0 generated
+F bound current: 38.0 | 1 expanded | 2 generated
+F bound current: 40.0 | 5 expanded | 13 generated
+F bound current: 42.0 | 90 expanded | 263 generated
+F bound current: 44.0 | 743 expanded | 2177 generated
+F bound current: 46.0 | 5119 expanded | 15130 generated
+F bound current: 48.0 | 34078 expanded | 101096 generated
+F bound current: 50.0 | 214243 expanded | 638020 generated
+F bound current: 52.0 | 1300921 expanded | 3888770 generated
+Time: 3.132s elapsed | 3288050 expanded | 9805507 generated | solution length: 52
+
+
+IDA* on unit STP problem 20
+(4x4)12 8 14 6 11 4 7 0 5 1 10 15 3 13 9 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 36.0 | 0 expanded | 0 generated
+F bound current: 38.0 | 4 expanded | 12 generated
+F bound current: 40.0 | 39 expanded | 116 generated
+F bound current: 42.0 | 201 expanded | 592 generated
+F bound current: 44.0 | 1017 expanded | 3010 generated
+F bound current: 46.0 | 4994 expanded | 14892 generated
+F bound current: 48.0 | 26060 expanded | 77723 generated
+F bound current: 50.0 | 139297 expanded | 416535 generated
+F bound current: 52.0 | 752708 expanded | 2256236 generated
+F bound current: 54.0 | 4081978 expanded | 12254390 generated
+Time: 20.85s elapsed | 21844848 expanded | 65694003 generated | solution length: 54
+
+
+IDA* on unit STP problem 21
+(4x4)14 3 9 1 15 8 4 5 11 7 10 13 0 2 12 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 45.0 | 0 expanded | 0 generated
+F bound current: 47.0 | 16 expanded | 43 generated
+F bound current: 49.0 | 122 expanded | 341 generated
+F bound current: 51.0 | 1515 expanded | 4304 generated
+F bound current: 53.0 | 14397 expanded | 41678 generated
+F bound current: 55.0 | 124487 expanded | 364677 generated
+F bound current: 57.0 | 991265 expanded | 2923958 generated
+F bound current: 59.0 | 7279888 expanded | 21576620 generated
+Time: 17.942s elapsed | 19476120 expanded | 58047832 generated | solution length: 59
+
+
+IDA* on unit STP problem 22
+(4x4)10 9 3 11 0 13 2 14 5 6 4 7 8 15 1 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 37.0 | 0 expanded | 0 generated
+F bound current: 39.0 | 4 expanded | 10 generated
+F bound current: 41.0 | 110 expanded | 328 generated
+F bound current: 43.0 | 723 expanded | 2121 generated
+F bound current: 45.0 | 4944 expanded | 14591 generated
+F bound current: 47.0 | 34315 expanded | 101822 generated
+F bound current: 49.0 | 231530 expanded | 689972 generated
+Time: 0.36s elapsed | 374475 expanded | 1118008 generated | solution length: 49
+
+
+IDA* on unit STP problem 23
+(4x4)7 3 14 13 4 1 10 8 5 12 9 11 2 15 6 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 36.0 | 0 expanded | 0 generated
+F bound current: 38.0 | 1 expanded | 2 generated
+F bound current: 40.0 | 31 expanded | 90 generated
+F bound current: 42.0 | 187 expanded | 552 generated
+F bound current: 44.0 | 1046 expanded | 3122 generated
+F bound current: 46.0 | 6303 expanded | 19021 generated
+F bound current: 48.0 | 37212 expanded | 112490 generated
+F bound current: 50.0 | 215239 expanded | 653292 generated
+F bound current: 52.0 | 1212878 expanded | 3690818 generated
+F bound current: 54.0 | 6734379 expanded | 20537169 generated
+Time: 7.195s elapsed | 7402607 expanded | 22595149 generated | solution length: 54
+
+
+IDA* on unit STP problem 24
+(4x4)11 4 2 7 1 0 10 15 6 9 14 8 3 13 5 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 36.0 | 0 expanded | 0 generated
+F bound current: 38.0 | 32 expanded | 90 generated
+F bound current: 40.0 | 125 expanded | 356 generated
+F bound current: 42.0 | 553 expanded | 1567 generated
+F bound current: 44.0 | 3254 expanded | 9300 generated
+F bound current: 46.0 | 19622 expanded | 56618 generated
+F bound current: 48.0 | 124516 expanded | 361619 generated
+F bound current: 50.0 | 770114 expanded | 2250115 generated
+F bound current: 52.0 | 4589056 expanded | 13474762 generated
+Time: 5.521s elapsed | 5982001 expanded | 17596998 generated | solution length: 52
+
+
+IDA* on unit STP problem 25
+(4x4)5 7 3 12 15 13 14 8 0 10 9 6 1 4 2 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 44.0 | 0 expanded | 0 generated
+F bound current: 46.0 | 31 expanded | 87 generated
+F bound current: 48.0 | 565 expanded | 1640 generated
+F bound current: 50.0 | 6205 expanded | 18221 generated
+F bound current: 52.0 | 57416 expanded | 169677 generated
+F bound current: 54.0 | 461160 expanded | 1369200 generated
+F bound current: 56.0 | 3381305 expanded | 10077184 generated
+F bound current: 58.0 | 23209776 expanded | 69376002 generated
+Time: 37.666s elapsed | 40450827 expanded | 120834166 generated | solution length: 58
+
+
+IDA* on unit STP problem 26
+(4x4)14 1 8 15 2 6 0 3 9 12 10 13 4 7 5 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 35.0 | 0 expanded | 0 generated
+F bound current: 37.0 | 7 expanded | 21 generated
+F bound current: 39.0 | 80 expanded | 237 generated
+F bound current: 41.0 | 482 expanded | 1427 generated
+F bound current: 43.0 | 2689 expanded | 7991 generated
+F bound current: 45.0 | 13885 expanded | 41257 generated
+F bound current: 47.0 | 70860 expanded | 210881 generated
+F bound current: 49.0 | 364367 expanded | 1085654 generated
+F bound current: 51.0 | 1890400 expanded | 5641652 generated
+F bound current: 53.0 | 9863036 expanded | 29483116 generated
+Time: 9.516s elapsed | 10251534 expanded | 30652763 generated | solution length: 53
+
+
+IDA* on unit STP problem 27
+(4x4)13 14 6 12 4 5 1 0 9 3 10 2 15 11 8 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 36.0 | 0 expanded | 0 generated
+F bound current: 38.0 | 4 expanded | 10 generated
+F bound current: 40.0 | 26 expanded | 73 generated
+F bound current: 42.0 | 124 expanded | 368 generated
+F bound current: 44.0 | 625 expanded | 1849 generated
+F bound current: 46.0 | 3606 expanded | 10730 generated
+F bound current: 48.0 | 21435 expanded | 63763 generated
+F bound current: 50.0 | 125102 expanded | 372370 generated
+F bound current: 52.0 | 724324 expanded | 2157368 generated
+Time: 1.305s elapsed | 1417964 expanded | 4215558 generated | solution length: 52
+
+
+IDA* on unit STP problem 28
+(4x4)9 8 0 2 15 1 4 14 3 10 7 5 11 13 6 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 40.0 | 0 expanded | 0 generated
+F bound current: 42.0 | 2 expanded | 5 generated
+F bound current: 44.0 | 45 expanded | 131 generated
+F bound current: 46.0 | 669 expanded | 1936 generated
+F bound current: 48.0 | 5866 expanded | 16904 generated
+F bound current: 50.0 | 40566 expanded | 117434 generated
+F bound current: 52.0 | 270306 expanded | 785402 generated
+F bound current: 54.0 | 1700308 expanded | 4955355 generated
+Time: 3.937s elapsed | 4340908 expanded | 12692021 generated | solution length: 54
+
+
+IDA* on unit STP problem 29
+(4x4)12 15 2 6 1 14 4 8 5 3 7 0 10 13 9 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 35.0 | 0 expanded | 0 generated
+F bound current: 37.0 | 23 expanded | 68 generated
+F bound current: 39.0 | 157 expanded | 460 generated
+F bound current: 41.0 | 962 expanded | 2860 generated
+F bound current: 43.0 | 5653 expanded | 16843 generated
+F bound current: 45.0 | 30841 expanded | 92074 generated
+F bound current: 47.0 | 161966 expanded | 483590 generated
+Time: 0.35s elapsed | 372128 expanded | 1111582 generated | solution length: 47
+
+
+IDA* on unit STP problem 30
+(4x4)12 8 15 13 1 0 5 4 6 3 2 11 9 7 14 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 40.0 | 0 expanded | 0 generated
+F bound current: 42.0 | 53 expanded | 155 generated
+F bound current: 44.0 | 459 expanded | 1341 generated
+F bound current: 46.0 | 2828 expanded | 8274 generated
+F bound current: 48.0 | 17040 expanded | 50037 generated
+F bound current: 50.0 | 100507 expanded | 295995 generated
+Time: 0.199s elapsed | 215894 expanded | 637882 generated | solution length: 50
+
+
+IDA* on unit STP problem 31
+(4x4)14 10 9 4 13 6 5 8 2 12 7 0 1 3 11 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 45.0 | 0 expanded | 0 generated
+F bound current: 47.0 | 69 expanded | 195 generated
+F bound current: 49.0 | 1213 expanded | 3537 generated
+F bound current: 51.0 | 10608 expanded | 31266 generated
+F bound current: 53.0 | 78444 expanded | 232812 generated
+F bound current: 55.0 | 541371 expanded | 1612912 generated
+F bound current: 57.0 | 3566040 expanded | 10657847 generated
+F bound current: 59.0 | 22552452 expanded | 67573885 generated
+Time: 77.008s elapsed | 85024702 expanded | 255074934 generated | solution length: 59
+
+
+IDA* on unit STP problem 32
+(4x4)14 3 5 15 11 6 13 9 0 10 2 12 4 1 7 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 42.0 | 0 expanded | 0 generated
+F bound current: 44.0 | 2 expanded | 5 generated
+F bound current: 46.0 | 9 expanded | 25 generated
+F bound current: 48.0 | 48 expanded | 140 generated
+F bound current: 50.0 | 364 expanded | 1052 generated
+F bound current: 52.0 | 2549 expanded | 7344 generated
+F bound current: 54.0 | 18589 expanded | 53651 generated
+F bound current: 56.0 | 129772 expanded | 376448 generated
+F bound current: 58.0 | 908073 expanded | 2646994 generated
+F bound current: 60.0 | 6363673 expanded | 18654027 generated
+Time: 13.655s elapsed | 14986948 expanded | 44138002 generated | solution length: 60
+
+
+IDA* on unit STP problem 33
+(4x4)6 11 7 8 13 2 5 4 1 10 3 9 14 0 12 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 42.0 | 0 expanded | 0 generated
+F bound current: 44.0 | 8 expanded | 22 generated
+F bound current: 46.0 | 376 expanded | 1110 generated
+F bound current: 48.0 | 4925 expanded | 14619 generated
+F bound current: 50.0 | 45207 expanded | 134846 generated
+F bound current: 52.0 | 364510 expanded | 1091284 generated
+Time: 1.46s elapsed | 1574609 expanded | 4739986 generated | solution length: 52
+
+
+IDA* on unit STP problem 34
+(4x4)1 6 12 14 3 2 15 8 4 5 13 9 0 7 11 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 39.0 | 0 expanded | 0 generated
+F bound current: 41.0 | 1 expanded | 2 generated
+F bound current: 43.0 | 4 expanded | 10 generated
+F bound current: 45.0 | 130 expanded | 376 generated
+F bound current: 47.0 | 1401 expanded | 4059 generated
+F bound current: 49.0 | 11018 expanded | 32123 generated
+F bound current: 51.0 | 80495 expanded | 235831 generated
+F bound current: 53.0 | 533240 expanded | 1566722 generated
+F bound current: 55.0 | 3343971 expanded | 9857147 generated
+Time: 5.957s elapsed | 6586196 expanded | 19457758 generated | solution length: 55
+
+
+IDA* on unit STP problem 35
+(4x4)12 6 0 4 7 3 15 1 13 9 8 11 2 14 5 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 38.0 | 0 expanded | 0 generated
+F bound current: 40.0 | 18 expanded | 53 generated
+F bound current: 42.0 | 133 expanded | 386 generated
+F bound current: 44.0 | 667 expanded | 1972 generated
+F bound current: 46.0 | 3942 expanded | 11542 generated
+F bound current: 48.0 | 22634 expanded | 66515 generated
+F bound current: 50.0 | 132526 expanded | 390727 generated
+F bound current: 52.0 | 769163 expanded | 2272880 generated
+Time: 1.948s elapsed | 2091684 expanded | 6177946 generated | solution length: 52
+
+
+IDA* on unit STP problem 36
+(4x4)8 1 7 12 11 0 10 5 9 15 6 13 14 2 3 4
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 42.0 | 0 expanded | 0 generated
+F bound current: 44.0 | 7 expanded | 21 generated
+F bound current: 46.0 | 89 expanded | 259 generated
+F bound current: 48.0 | 716 expanded | 2057 generated
+F bound current: 50.0 | 5190 expanded | 14960 generated
+F bound current: 52.0 | 36173 expanded | 104290 generated
+F bound current: 54.0 | 242337 expanded | 700116 generated
+F bound current: 56.0 | 1566110 expanded | 4536927 generated
+F bound current: 58.0 | 10015450 expanded | 29114955 generated
+Time: 9.225s elapsed | 10520701 expanded | 30601930 generated | solution length: 58
+
+
+IDA* on unit STP problem 37
+(4x4)7 15 8 2 13 6 3 12 11 0 4 10 9 5 1 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 43.0 | 0 expanded | 0 generated
+F bound current: 45.0 | 87 expanded | 253 generated
+F bound current: 47.0 | 1008 expanded | 2972 generated
+F bound current: 49.0 | 8489 expanded | 25095 generated
+F bound current: 51.0 | 62099 expanded | 183952 generated
+F bound current: 53.0 | 439774 expanded | 1305324 generated
+Time: 1.943s elapsed | 2101465 expanded | 6241958 generated | solution length: 53
+
+
+IDA* on unit STP problem 38
+(4x4)9 0 4 10 1 14 15 3 12 6 5 7 11 13 8 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 35.0 | 0 expanded | 0 generated
+F bound current: 37.0 | 8 expanded | 21 generated
+F bound current: 39.0 | 175 expanded | 541 generated
+F bound current: 41.0 | 1158 expanded | 3475 generated
+F bound current: 43.0 | 6687 expanded | 20223 generated
+F bound current: 45.0 | 37173 expanded | 112733 generated
+F bound current: 47.0 | 201929 expanded | 613580 generated
+F bound current: 49.0 | 1077937 expanded | 3283082 generated
+Time: 1.724s elapsed | 1757328 expanded | 5361156 generated | solution length: 49
+
+
+IDA* on unit STP problem 39
+(4x4)11 5 1 14 4 12 10 0 2 7 13 3 9 15 6 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 38.0 | 0 expanded | 0 generated
+F bound current: 40.0 | 8 expanded | 22 generated
+F bound current: 42.0 | 126 expanded | 377 generated
+F bound current: 44.0 | 925 expanded | 2761 generated
+F bound current: 46.0 | 5632 expanded | 16833 generated
+F bound current: 48.0 | 33733 expanded | 101111 generated
+F bound current: 50.0 | 196306 expanded | 589915 generated
+F bound current: 52.0 | 1122397 expanded | 3380801 generated
+F bound current: 54.0 | 6331025 expanded | 19110267 generated
+Time: 9.328s elapsed | 9819769 expanded | 29613874 generated | solution length: 54
+
+
+IDA* on unit STP problem 40
+(4x4)8 13 10 9 11 3 15 6 0 1 2 14 12 5 4 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 40.0 | 0 expanded | 0 generated
+F bound current: 42.0 | 33 expanded | 100 generated
+F bound current: 44.0 | 365 expanded | 1111 generated
+F bound current: 46.0 | 2851 expanded | 8654 generated
+F bound current: 48.0 | 20817 expanded | 63390 generated
+F bound current: 50.0 | 140691 expanded | 429125 generated
+F bound current: 52.0 | 904777 expanded | 2762548 generated
+F bound current: 54.0 | 5560138 expanded | 16987462 generated
+Time: 7.782s elapsed | 8156882 expanded | 24945093 generated | solution length: 54
+
+
+IDA* on unit STP problem 41
+(4x4)4 5 7 2 9 14 12 13 0 3 6 11 8 1 15 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 32.0 | 0 expanded | 0 generated
+F bound current: 34.0 | 6 expanded | 16 generated
+F bound current: 36.0 | 81 expanded | 252 generated
+F bound current: 38.0 | 631 expanded | 1896 generated
+F bound current: 40.0 | 3952 expanded | 11959 generated
+F bound current: 42.0 | 23405 expanded | 70750 generated
+Time: 0.035s elapsed | 33257 expanded | 100517 generated | solution length: 42
+
+
+IDA* on unit STP problem 42
+(4x4)11 15 14 13 1 9 10 4 3 6 2 12 7 5 8 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 52.0 | 0 expanded | 0 generated
+F bound current: 54.0 | 2 expanded | 5 generated
+F bound current: 56.0 | 121 expanded | 331 generated
+F bound current: 58.0 | 2796 expanded | 7878 generated
+F bound current: 60.0 | 35360 expanded | 100208 generated
+F bound current: 62.0 | 373797 expanded | 1065366 generated
+F bound current: 64.0 | 3502939 expanded | 10042172 generated
+Time: 6.547s elapsed | 7722948 expanded | 22230451 generated | solution length: 64
+
+
+IDA* on unit STP problem 43
+(4x4)12 9 0 6 8 3 5 14 2 4 11 7 10 1 15 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 38.0 | 0 expanded | 0 generated
+F bound current: 40.0 | 20 expanded | 56 generated
+F bound current: 42.0 | 235 expanded | 663 generated
+F bound current: 44.0 | 1866 expanded | 5385 generated
+F bound current: 46.0 | 13833 expanded | 40404 generated
+F bound current: 48.0 | 92589 expanded | 272696 generated
+F bound current: 50.0 | 586905 expanded | 1741037 generated
+Time: 1.597s elapsed | 1685960 expanded | 5003546 generated | solution length: 50
+
+
+IDA* on unit STP problem 44
+(4x4)3 14 9 7 12 15 0 4 1 8 5 6 11 10 2 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 39.0 | 0 expanded | 0 generated
+F bound current: 41.0 | 9 expanded | 27 generated
+F bound current: 43.0 | 117 expanded | 338 generated
+F bound current: 45.0 | 759 expanded | 2231 generated
+F bound current: 47.0 | 4931 expanded | 14542 generated
+F bound current: 49.0 | 30966 expanded | 91568 generated
+F bound current: 51.0 | 191466 expanded | 568668 generated
+Time: 0.241s elapsed | 249961 expanded | 744342 generated | solution length: 51
+
+
+IDA* on unit STP problem 45
+(4x4)8 4 6 1 14 12 2 15 13 10 9 5 3 7 0 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 41.0 | 0 expanded | 0 generated
+F bound current: 43.0 | 340 expanded | 967 generated
+F bound current: 45.0 | 4771 expanded | 13781 generated
+F bound current: 47.0 | 42659 expanded | 124178 generated
+F bound current: 49.0 | 309956 expanded | 906585 generated
+Time: 0.309s elapsed | 337176 expanded | 986985 generated | solution length: 49
+
+
+IDA* on unit STP problem 46
+(4x4)6 10 1 14 15 8 3 5 13 0 2 7 4 9 11 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 35.0 | 0 expanded | 0 generated
+F bound current: 37.0 | 15 expanded | 46 generated
+F bound current: 39.0 | 69 expanded | 204 generated
+F bound current: 41.0 | 408 expanded | 1227 generated
+F bound current: 43.0 | 2168 expanded | 6497 generated
+F bound current: 45.0 | 11981 expanded | 36001 generated
+F bound current: 47.0 | 66462 expanded | 200023 generated
+Time: 0.211s elapsed | 211493 expanded | 636645 generated | solution length: 47
+
+
+IDA* on unit STP problem 47
+(4x4)8 11 4 6 7 3 10 9 2 12 15 13 0 1 5 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 39.0 | 0 expanded | 0 generated
+F bound current: 41.0 | 1 expanded | 2 generated
+F bound current: 43.0 | 18 expanded | 49 generated
+F bound current: 45.0 | 361 expanded | 1084 generated
+F bound current: 47.0 | 3254 expanded | 9802 generated
+F bound current: 49.0 | 28211 expanded | 85516 generated
+Time: 0.101s elapsed | 102279 expanded | 312152 generated | solution length: 49
+
+
+IDA* on unit STP problem 48
+(4x4)10 0 2 4 5 1 6 12 11 13 9 7 15 3 14 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 37.0 | 0 expanded | 0 generated
+F bound current: 39.0 | 7 expanded | 19 generated
+F bound current: 41.0 | 50 expanded | 142 generated
+F bound current: 43.0 | 259 expanded | 751 generated
+F bound current: 45.0 | 1114 expanded | 3245 generated
+F bound current: 47.0 | 5071 expanded | 14873 generated
+F bound current: 49.0 | 24422 expanded | 71799 generated
+F bound current: 51.0 | 122174 expanded | 360537 generated
+F bound current: 53.0 | 621227 expanded | 1837484 generated
+F bound current: 55.0 | 3186102 expanded | 9445536 generated
+F bound current: 57.0 | 16454306 expanded | 48873825 generated
+F bound current: 59.0 | 85446451 expanded | 254239247 generated
+Time: 83.875s elapsed | 90843484 expanded | 270323089 generated | solution length: 59
+
+
+IDA* on unit STP problem 49
+(4x4)12 5 13 11 2 10 0 9 7 8 4 3 14 6 15 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 41.0 | 0 expanded | 0 generated
+F bound current: 43.0 | 23 expanded | 64 generated
+F bound current: 45.0 | 206 expanded | 594 generated
+F bound current: 47.0 | 1467 expanded | 4281 generated
+F bound current: 49.0 | 10018 expanded | 29304 generated
+F bound current: 51.0 | 69486 expanded | 204455 generated
+F bound current: 53.0 | 482511 expanded | 1429252 generated
+Time: 2.863s elapsed | 3081777 expanded | 9174773 generated | solution length: 53
+
+
+IDA* on unit STP problem 50
+(4x4)10 2 8 4 15 0 1 14 11 13 3 6 9 7 5 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 44.0 | 0 expanded | 0 generated
+F bound current: 46.0 | 85 expanded | 253 generated
+F bound current: 48.0 | 783 expanded | 2274 generated
+F bound current: 50.0 | 6416 expanded | 18632 generated
+F bound current: 52.0 | 49002 expanded | 142938 generated
+F bound current: 54.0 | 346701 expanded | 1015571 generated
+F bound current: 56.0 | 2310286 expanded | 6792964 generated
+Time: 2.398s elapsed | 2623938 expanded | 7710313 generated | solution length: 56
+
+
+IDA* on unit STP problem 51
+(4x4)10 8 0 12 3 7 6 2 1 14 4 11 15 13 9 5
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 42.0 | 0 expanded | 0 generated
+F bound current: 44.0 | 23 expanded | 65 generated
+F bound current: 46.0 | 386 expanded | 1107 generated
+F bound current: 48.0 | 3160 expanded | 9127 generated
+F bound current: 50.0 | 24981 expanded | 72525 generated
+F bound current: 52.0 | 174047 expanded | 507810 generated
+F bound current: 54.0 | 1115360 expanded | 3264008 generated
+F bound current: 56.0 | 6827670 expanded | 20032727 generated
+Time: 11.769s elapsed | 12922038 expanded | 37960175 generated | solution length: 56
+
+
+IDA* on unit STP problem 52
+(4x4)14 9 12 13 15 4 8 10 0 2 1 7 3 11 5 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 50.0 | 0 expanded | 0 generated
+F bound current: 52.0 | 67 expanded | 188 generated
+F bound current: 54.0 | 638 expanded | 1817 generated
+F bound current: 56.0 | 12532 expanded | 36418 generated
+F bound current: 58.0 | 125713 expanded | 367422 generated
+F bound current: 60.0 | 1096270 expanded | 3216987 generated
+F bound current: 62.0 | 8415830 expanded | 24758300 generated
+F bound current: 64.0 | 59831394 expanded | 176421937 generated
+Time: 257.776s elapsed | 279114381 expanded | 824211507 generated | solution length: 64
+
+
+IDA* on unit STP problem 53
+(4x4)12 11 0 8 10 2 13 15 5 4 7 3 6 9 14 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 42.0 | 0 expanded | 0 generated
+F bound current: 44.0 | 15 expanded | 41 generated
+F bound current: 46.0 | 332 expanded | 941 generated
+F bound current: 48.0 | 2762 expanded | 7967 generated
+F bound current: 50.0 | 19295 expanded | 55968 generated
+F bound current: 52.0 | 125689 expanded | 366978 generated
+F bound current: 54.0 | 786128 expanded | 2304635 generated
+F bound current: 56.0 | 4736074 expanded | 13932326 generated
+Time: 12.674s elapsed | 13238074 expanded | 39072902 generated | solution length: 56
+
+
+IDA* on unit STP problem 54
+(4x4)13 8 14 3 9 1 0 7 15 5 4 10 12 2 6 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 31.0 | 0 expanded | 0 generated
+F bound current: 33.0 | 7 expanded | 22 generated
+F bound current: 35.0 | 103 expanded | 321 generated
+F bound current: 37.0 | 617 expanded | 1900 generated
+F bound current: 39.0 | 3495 expanded | 10749 generated
+F bound current: 41.0 | 18524 expanded | 56919 generated
+Time: 0.092s elapsed | 85634 expanded | 263582 generated | solution length: 41
+
+
+IDA* on unit STP problem 55
+(4x4)3 15 2 5 11 6 4 7 12 9 1 0 13 14 10 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 33.0 | 0 expanded | 0 generated
+F bound current: 35.0 | 1 expanded | 3 generated
+F bound current: 37.0 | 21 expanded | 58 generated
+F bound current: 39.0 | 183 expanded | 525 generated
+F bound current: 41.0 | 990 expanded | 2884 generated
+F bound current: 43.0 | 4878 expanded | 14262 generated
+F bound current: 45.0 | 24281 expanded | 71341 generated
+F bound current: 47.0 | 120206 expanded | 354072 generated
+F bound current: 49.0 | 597472 expanded | 1766461 generated
+F bound current: 51.0 | 2956153 expanded | 8761996 generated
+F bound current: 53.0 | 14585897 expanded | 43340371 generated
+F bound current: 55.0 | 71670603 expanded | 213437061 generated
+Time: 104.421s elapsed | 106367453 expanded | 316536101 generated | solution length: 55
+
+
+IDA* on unit STP problem 56
+(4x4)5 11 6 9 4 13 12 0 8 2 15 10 1 7 3 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 36.0 | 0 expanded | 0 generated
+F bound current: 38.0 | 2 expanded | 5 generated
+F bound current: 40.0 | 36 expanded | 100 generated
+F bound current: 42.0 | 363 expanded | 1067 generated
+F bound current: 44.0 | 2708 expanded | 8038 generated
+F bound current: 46.0 | 18029 expanded | 53932 generated
+F bound current: 48.0 | 111666 expanded | 335687 generated
+F bound current: 50.0 | 645552 expanded | 1947475 generated
+Time: 1.651s elapsed | 1687326 expanded | 5087226 generated | solution length: 50
+
+
+IDA* on unit STP problem 57
+(4x4)5 0 15 8 4 6 1 14 10 11 3 9 7 12 2 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 41.0 | 0 expanded | 0 generated
+F bound current: 43.0 | 2 expanded | 5 generated
+F bound current: 45.0 | 564 expanded | 1712 generated
+F bound current: 47.0 | 6275 expanded | 19210 generated
+F bound current: 49.0 | 53463 expanded | 164019 generated
+F bound current: 51.0 | 373223 expanded | 1145820 generated
+Time: 1.728s elapsed | 1681684 expanded | 5158244 generated | solution length: 51
+
+
+IDA* on unit STP problem 58
+(4x4)15 14 6 7 10 1 0 11 12 8 4 9 2 5 13 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 39.0 | 0 expanded | 0 generated
+F bound current: 41.0 | 10 expanded | 28 generated
+F bound current: 43.0 | 70 expanded | 197 generated
+F bound current: 45.0 | 415 expanded | 1180 generated
+F bound current: 47.0 | 2317 expanded | 6650 generated
+F bound current: 49.0 | 14926 expanded | 43052 generated
+F bound current: 51.0 | 94732 expanded | 274974 generated
+F bound current: 53.0 | 603178 expanded | 1760235 generated
+F bound current: 55.0 | 3724289 expanded | 10915981 generated
+F bound current: 57.0 | 22461632 expanded | 66089503 generated
+Time: 57.044s elapsed | 58257824 expanded | 171719590 generated | solution length: 57
+
+
+IDA* on unit STP problem 59
+(4x4)11 14 13 1 2 3 12 4 15 7 9 5 10 6 8 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 48.0 | 0 expanded | 0 generated
+F bound current: 50.0 | 1 expanded | 2 generated
+F bound current: 52.0 | 7 expanded | 18 generated
+F bound current: 54.0 | 104 expanded | 293 generated
+F bound current: 56.0 | 1130 expanded | 3202 generated
+F bound current: 58.0 | 11953 expanded | 34229 generated
+F bound current: 60.0 | 119588 expanded | 344475 generated
+F bound current: 62.0 | 1104209 expanded | 3199213 generated
+F bound current: 64.0 | 9627255 expanded | 28053014 generated
+F bound current: 66.0 | 79003599 expanded | 231377300 generated
+Time: 92.091s elapsed | 99043026 expanded | 289706847 generated | solution length: 66
+
+
+IDA* on unit STP problem 60
+(4x4)6 13 3 2 11 9 5 10 1 7 12 14 8 4 0 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 35.0 | 0 expanded | 0 generated
+F bound current: 37.0 | 49 expanded | 141 generated
+F bound current: 39.0 | 387 expanded | 1118 generated
+F bound current: 41.0 | 2728 expanded | 8064 generated
+F bound current: 43.0 | 18944 expanded | 56029 generated
+F bound current: 45.0 | 122900 expanded | 365978 generated
+Time: 0.244s elapsed | 244970 expanded | 730727 generated | solution length: 45
+
+
+IDA* on unit STP problem 61
+(4x4)4 6 12 0 14 2 9 13 11 8 3 15 7 10 1 5
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 45.0 | 0 expanded | 0 generated
+F bound current: 47.0 | 1 expanded | 2 generated
+F bound current: 49.0 | 226 expanded | 658 generated
+F bound current: 51.0 | 3269 expanded | 9626 generated
+F bound current: 53.0 | 32730 expanded | 96798 generated
+F bound current: 55.0 | 275056 expanded | 816296 generated
+F bound current: 57.0 | 2092198 expanded | 6226897 generated
+Time: 4.352s elapsed | 4521932 expanded | 13455304 generated | solution length: 57
+
+
+IDA* on unit STP problem 62
+(4x4)8 10 9 11 14 1 7 15 13 4 0 12 6 2 5 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 44.0 | 0 expanded | 0 generated
+F bound current: 46.0 | 298 expanded | 887 generated
+F bound current: 48.0 | 2538 expanded | 7598 generated
+F bound current: 50.0 | 17921 expanded | 53682 generated
+F bound current: 52.0 | 117102 expanded | 351377 generated
+F bound current: 54.0 | 766762 expanded | 2304912 generated
+F bound current: 56.0 | 4890628 expanded | 14708608 generated
+Time: 14.842s elapsed | 15202705 expanded | 45993994 generated | solution length: 56
+
+
+IDA* on unit STP problem 63
+(4x4)5 2 14 0 7 8 6 3 11 12 13 15 4 10 9 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 35.0 | 0 expanded | 0 generated
+F bound current: 37.0 | 12 expanded | 35 generated
+F bound current: 39.0 | 54 expanded | 157 generated
+F bound current: 41.0 | 396 expanded | 1194 generated
+F bound current: 43.0 | 3395 expanded | 10268 generated
+F bound current: 45.0 | 24692 expanded | 75235 generated
+F bound current: 47.0 | 157549 expanded | 481964 generated
+F bound current: 49.0 | 932699 expanded | 2862055 generated
+F bound current: 51.0 | 5213257 expanded | 16024672 generated
+Time: 21.585s elapsed | 20799546 expanded | 63762296 generated | solution length: 51
+
+
+IDA* on unit STP problem 64
+(4x4)7 8 3 2 10 12 4 6 11 13 5 15 0 1 9 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 35.0 | 0 expanded | 0 generated
+F bound current: 37.0 | 41 expanded | 122 generated
+F bound current: 39.0 | 317 expanded | 944 generated
+F bound current: 41.0 | 2080 expanded | 6191 generated
+F bound current: 43.0 | 13205 expanded | 39378 generated
+F bound current: 45.0 | 80883 expanded | 242246 generated
+F bound current: 47.0 | 474926 expanded | 1427826 generated
+Time: 0.529s elapsed | 525347 expanded | 1579124 generated | solution length: 47
+
+
+IDA* on unit STP problem 65
+(4x4)11 6 14 12 3 5 1 15 8 0 10 13 9 7 4 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 43.0 | 0 expanded | 0 generated
+F bound current: 45.0 | 16 expanded | 44 generated
+F bound current: 47.0 | 159 expanded | 456 generated
+F bound current: 49.0 | 1282 expanded | 3715 generated
+F bound current: 51.0 | 9236 expanded | 26947 generated
+F bound current: 53.0 | 62112 expanded | 181853 generated
+F bound current: 55.0 | 413183 expanded | 1214353 generated
+F bound current: 57.0 | 2719506 expanded | 8017553 generated
+F bound current: 59.0 | 17439365 expanded | 51562039 generated
+F bound current: 61.0 | 109297431 expanded | 323962918 generated
+Time: 163.647s elapsed | 169431541 expanded | 502238393 generated | solution length: 61
+
+
+IDA* on unit STP problem 66
+(4x4)7 1 2 4 8 3 6 11 10 15 0 5 14 12 13 9
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 30.0 | 0 expanded | 0 generated
+F bound current: 32.0 | 16 expanded | 50 generated
+F bound current: 34.0 | 87 expanded | 275 generated
+F bound current: 36.0 | 357 expanded | 1105 generated
+F bound current: 38.0 | 1668 expanded | 5137 generated
+F bound current: 40.0 | 7100 expanded | 21958 generated
+F bound current: 42.0 | 30497 expanded | 94182 generated
+F bound current: 44.0 | 133472 expanded | 411250 generated
+F bound current: 46.0 | 579514 expanded | 1785131 generated
+F bound current: 48.0 | 2553327 expanded | 7858614 generated
+F bound current: 50.0 | 11342143 expanded | 34881461 generated
+Time: 12.99s elapsed | 12583339 expanded | 38656934 generated | solution length: 50
+
+
+IDA* on unit STP problem 67
+(4x4)7 3 1 13 12 10 5 2 8 0 6 11 14 15 4 9
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 35.0 | 0 expanded | 0 generated
+F bound current: 37.0 | 25 expanded | 73 generated
+F bound current: 39.0 | 151 expanded | 438 generated
+F bound current: 41.0 | 791 expanded | 2317 generated
+F bound current: 43.0 | 4138 expanded | 12181 generated
+F bound current: 45.0 | 21162 expanded | 62599 generated
+F bound current: 47.0 | 110580 expanded | 328856 generated
+F bound current: 49.0 | 584394 expanded | 1745194 generated
+F bound current: 51.0 | 3092919 expanded | 9266955 generated
+Time: 8.07s elapsed | 8072767 expanded | 24302995 generated | solution length: 51
+
+
+IDA* on unit STP problem 68
+(4x4)6 0 5 15 1 14 4 9 2 13 8 10 11 12 7 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 39.0 | 0 expanded | 0 generated
+F bound current: 41.0 | 6 expanded | 16 generated
+F bound current: 43.0 | 89 expanded | 255 generated
+F bound current: 45.0 | 628 expanded | 1816 generated
+F bound current: 47.0 | 4015 expanded | 11635 generated
+F bound current: 49.0 | 27255 expanded | 79316 generated
+F bound current: 51.0 | 176445 expanded | 515557 generated
+F bound current: 53.0 | 1115016 expanded | 3271953 generated
+Time: 3.023s elapsed | 3135959 expanded | 9214537 generated | solution length: 53
+
+
+IDA* on unit STP problem 69
+(4x4)15 1 3 12 4 0 6 5 2 8 14 9 13 10 7 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 32.0 | 0 expanded | 0 generated
+F bound current: 34.0 | 1 expanded | 4 generated
+F bound current: 36.0 | 17 expanded | 55 generated
+F bound current: 38.0 | 122 expanded | 364 generated
+F bound current: 40.0 | 658 expanded | 1964 generated
+F bound current: 42.0 | 3913 expanded | 11699 generated
+F bound current: 44.0 | 21412 expanded | 63842 generated
+F bound current: 46.0 | 113686 expanded | 339195 generated
+F bound current: 48.0 | 595249 expanded | 1775193 generated
+F bound current: 50.0 | 3084230 expanded | 9198716 generated
+F bound current: 52.0 | 15825698 expanded | 47225387 generated
+Time: 17.203s elapsed | 17512195 expanded | 52227628 generated | solution length: 52
+
+
+IDA* on unit STP problem 70
+(4x4)5 7 0 11 12 1 9 10 15 6 2 3 8 4 13 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 34.0 | 0 expanded | 0 generated
+F bound current: 36.0 | 61 expanded | 171 generated
+F bound current: 38.0 | 395 expanded | 1146 generated
+F bound current: 40.0 | 2839 expanded | 8265 generated
+F bound current: 42.0 | 17507 expanded | 51381 generated
+F bound current: 44.0 | 100488 expanded | 296345 generated
+Time: 0.345s elapsed | 345666 expanded | 1024101 generated | solution length: 44
+
+
+IDA* on unit STP problem 71
+(4x4)12 15 11 10 4 5 14 0 13 7 1 2 9 8 3 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 40.0 | 0 expanded | 0 generated
+F bound current: 42.0 | 8 expanded | 21 generated
+F bound current: 44.0 | 211 expanded | 604 generated
+F bound current: 46.0 | 2034 expanded | 5862 generated
+F bound current: 48.0 | 16638 expanded | 48053 generated
+F bound current: 50.0 | 117987 expanded | 342792 generated
+F bound current: 52.0 | 773439 expanded | 2254219 generated
+F bound current: 54.0 | 4708117 expanded | 13762644 generated
+F bound current: 56.0 | 27562603 expanded | 80790550 generated
+Time: 38.675s elapsed | 40947249 expanded | 120220235 generated | solution length: 56
+
+
+IDA* on unit STP problem 72
+(4x4)6 14 10 5 15 8 7 1 3 4 2 0 12 9 11 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 39.0 | 0 expanded | 0 generated
+F bound current: 41.0 | 4 expanded | 12 generated
+F bound current: 43.0 | 77 expanded | 228 generated
+F bound current: 45.0 | 1406 expanded | 4189 generated
+F bound current: 47.0 | 16690 expanded | 50127 generated
+F bound current: 49.0 | 147227 expanded | 443873 generated
+Time: 0.159s elapsed | 164024 expanded | 495384 generated | solution length: 49
+
+
+IDA* on unit STP problem 73
+(4x4)14 13 4 11 15 8 6 9 0 7 3 1 2 10 12 5
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 46.0 | 0 expanded | 0 generated
+F bound current: 48.0 | 8 expanded | 22 generated
+F bound current: 50.0 | 85 expanded | 234 generated
+F bound current: 52.0 | 918 expanded | 2614 generated
+F bound current: 54.0 | 8981 expanded | 25926 generated
+F bound current: 56.0 | 85628 expanded | 249783 generated
+Time: 0.587s elapsed | 621090 expanded | 1826011 generated | solution length: 56
+
+
+IDA* on unit STP problem 74
+(4x4)14 4 0 10 6 5 1 3 9 2 13 15 12 7 8 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 34.0 | 0 expanded | 0 generated
+F bound current: 36.0 | 4 expanded | 12 generated
+F bound current: 38.0 | 181 expanded | 541 generated
+F bound current: 40.0 | 1665 expanded | 5064 generated
+F bound current: 42.0 | 12657 expanded | 38504 generated
+F bound current: 44.0 | 81571 expanded | 248610 generated
+F bound current: 46.0 | 483930 expanded | 1476680 generated
+F bound current: 48.0 | 2721757 expanded | 8313922 generated
+Time: 2.953s elapsed | 2905994 expanded | 8880066 generated | solution length: 48
+
+
+IDA* on unit STP problem 75
+(4x4)15 10 8 3 0 6 9 5 1 14 13 11 7 2 12 4
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 43.0 | 0 expanded | 0 generated
+F bound current: 45.0 | 4 expanded | 10 generated
+F bound current: 47.0 | 381 expanded | 1130 generated
+F bound current: 49.0 | 3795 expanded | 11313 generated
+F bound current: 51.0 | 30299 expanded | 90810 generated
+F bound current: 53.0 | 211593 expanded | 636493 generated
+F bound current: 55.0 | 1379311 expanded | 4155993 generated
+F bound current: 57.0 | 8598952 expanded | 25946751 generated
+Time: 26.11s elapsed | 26321475 expanded | 79547918 generated | solution length: 57
+
+
+IDA* on unit STP problem 76
+(4x4)0 13 2 4 12 14 6 9 15 1 10 3 11 5 8 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 36.0 | 0 expanded | 0 generated
+F bound current: 38.0 | 2 expanded | 5 generated
+F bound current: 40.0 | 18 expanded | 50 generated
+F bound current: 42.0 | 84 expanded | 250 generated
+F bound current: 44.0 | 426 expanded | 1257 generated
+F bound current: 46.0 | 2336 expanded | 6899 generated
+F bound current: 48.0 | 12759 expanded | 37893 generated
+F bound current: 50.0 | 71010 expanded | 211132 generated
+F bound current: 52.0 | 393163 expanded | 1171361 generated
+F bound current: 54.0 | 2187193 expanded | 6528493 generated
+Time: 2.684s elapsed | 2741322 expanded | 8190128 generated | solution length: 54
+
+
+IDA* on unit STP problem 77
+(4x4)3 14 13 6 4 15 8 9 5 12 10 0 2 7 1 11
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 41.0 | 0 expanded | 0 generated
+F bound current: 43.0 | 2 expanded | 5 generated
+F bound current: 45.0 | 104 expanded | 293 generated
+F bound current: 47.0 | 1068 expanded | 3105 generated
+F bound current: 49.0 | 7811 expanded | 22925 generated
+F bound current: 51.0 | 54589 expanded | 161232 generated
+F bound current: 53.0 | 363718 expanded | 1079200 generated
+Time: 1.416s elapsed | 1465936 expanded | 4364557 generated | solution length: 53
+
+
+IDA* on unit STP problem 78
+(4x4)0 1 9 7 11 13 5 3 14 12 4 2 8 6 10 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 30.0 | 0 expanded | 0 generated
+F bound current: 32.0 | 1 expanded | 2 generated
+F bound current: 34.0 | 8 expanded | 21 generated
+F bound current: 36.0 | 42 expanded | 124 generated
+F bound current: 38.0 | 389 expanded | 1183 generated
+F bound current: 40.0 | 2500 expanded | 7574 generated
+F bound current: 42.0 | 14677 expanded | 44527 generated
+Time: 0.05s elapsed | 48900 expanded | 149167 generated | solution length: 42
+
+
+IDA* on unit STP problem 79
+(4x4)11 0 15 8 13 12 3 5 10 1 4 6 14 9 7 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 43.0 | 0 expanded | 0 generated
+F bound current: 45.0 | 2 expanded | 5 generated
+F bound current: 47.0 | 49 expanded | 141 generated
+F bound current: 49.0 | 788 expanded | 2313 generated
+F bound current: 51.0 | 8311 expanded | 24486 generated
+F bound current: 53.0 | 69667 expanded | 205910 generated
+F bound current: 55.0 | 525269 expanded | 1557923 generated
+F bound current: 57.0 | 3707059 expanded | 11025763 generated
+Time: 19.649s elapsed | 20146081 expanded | 60184248 generated | solution length: 57
+
+
+IDA* on unit STP problem 80
+(4x4)13 0 9 12 11 6 3 5 15 8 1 10 4 14 2 7
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 41.0 | 0 expanded | 0 generated
+F bound current: 43.0 | 27 expanded | 83 generated
+F bound current: 45.0 | 185 expanded | 548 generated
+F bound current: 47.0 | 970 expanded | 2874 generated
+F bound current: 49.0 | 5684 expanded | 16856 generated
+F bound current: 51.0 | 35006 expanded | 103605 generated
+F bound current: 53.0 | 220293 expanded | 652785 generated
+Time: 0.527s elapsed | 532531 expanded | 1579543 generated | solution length: 53
+
+
+IDA* on unit STP problem 81
+(4x4)14 10 2 1 13 9 8 11 7 3 6 12 15 5 4 0
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 44.0 | 0 expanded | 0 generated
+F bound current: 46.0 | 1 expanded | 2 generated
+F bound current: 48.0 | 8 expanded | 20 generated
+F bound current: 50.0 | 342 expanded | 963 generated
+F bound current: 52.0 | 3116 expanded | 8789 generated
+F bound current: 54.0 | 23341 expanded | 66141 generated
+F bound current: 56.0 | 169544 expanded | 482910 generated
+F bound current: 58.0 | 1193400 expanded | 3419606 generated
+F bound current: 60.0 | 8184284 expanded | 23589586 generated
+F bound current: 62.0 | 54706723 expanded | 158538156 generated
+Time: 321.238s elapsed | 336395992 expanded | 980036289 generated | solution length: 62
+
+
+IDA* on unit STP problem 82
+(4x4)12 3 9 1 4 5 10 2 6 11 15 0 14 7 13 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 37.0 | 0 expanded | 0 generated
+F bound current: 39.0 | 31 expanded | 88 generated
+F bound current: 41.0 | 207 expanded | 588 generated
+F bound current: 43.0 | 1319 expanded | 3775 generated
+F bound current: 45.0 | 8126 expanded | 23458 generated
+F bound current: 47.0 | 48467 expanded | 140618 generated
+F bound current: 49.0 | 284257 expanded | 829109 generated
+Time: 0.687s elapsed | 725463 expanded | 2123007 generated | solution length: 49
+
+
+IDA* on unit STP problem 83
+(4x4)15 8 10 7 0 12 14 1 5 9 6 3 13 11 4 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 43.0 | 0 expanded | 0 generated
+F bound current: 45.0 | 101 expanded | 293 generated
+F bound current: 47.0 | 1353 expanded | 3939 generated
+F bound current: 49.0 | 16846 expanded | 49219 generated
+F bound current: 51.0 | 152461 expanded | 447358 generated
+F bound current: 53.0 | 1175715 expanded | 3464360 generated
+F bound current: 55.0 | 8136021 expanded | 24062175 generated
+Time: 30.272s elapsed | 31171912 expanded | 92437477 generated | solution length: 55
+
+
+IDA* on unit STP problem 84
+(4x4)4 7 13 10 1 2 9 6 12 8 14 5 3 0 11 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 32.0 | 0 expanded | 0 generated
+F bound current: 34.0 | 5 expanded | 15 generated
+F bound current: 36.0 | 101 expanded | 307 generated
+F bound current: 38.0 | 588 expanded | 1776 generated
+F bound current: 40.0 | 3928 expanded | 11926 generated
+F bound current: 42.0 | 22513 expanded | 68572 generated
+F bound current: 44.0 | 123853 expanded | 377583 generated
+Time: 0.454s elapsed | 448678 expanded | 1374812 generated | solution length: 44
+
+
+IDA* on unit STP problem 85
+(4x4)6 0 5 10 11 12 9 2 1 7 4 3 14 8 13 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 37.0 | 0 expanded | 0 generated
+F bound current: 39.0 | 6 expanded | 16 generated
+F bound current: 41.0 | 595 expanded | 1827 generated
+F bound current: 43.0 | 6397 expanded | 19445 generated
+F bound current: 45.0 | 51432 expanded | 156423 generated
+Time: 0.126s elapsed | 122397 expanded | 371766 generated | solution length: 45
+
+
+IDA* on unit STP problem 86
+(4x4)9 5 11 10 13 0 2 1 8 6 14 12 4 7 3 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 36.0 | 0 expanded | 0 generated
+F bound current: 38.0 | 11 expanded | 31 generated
+F bound current: 40.0 | 84 expanded | 241 generated
+F bound current: 42.0 | 477 expanded | 1382 generated
+F bound current: 44.0 | 2919 expanded | 8446 generated
+F bound current: 46.0 | 16588 expanded | 48234 generated
+F bound current: 48.0 | 96207 expanded | 280900 generated
+F bound current: 50.0 | 556804 expanded | 1632703 generated
+F bound current: 52.0 | 3194308 expanded | 9406568 generated
+Time: 6.012s elapsed | 6217029 expanded | 18335468 generated | solution length: 52
+
+
+IDA* on unit STP problem 87
+(4x4)15 2 12 11 14 13 9 5 1 3 8 7 0 10 6 4
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 45.0 | 0 expanded | 0 generated
+F bound current: 47.0 | 1 expanded | 2 generated
+F bound current: 49.0 | 6 expanded | 15 generated
+F bound current: 51.0 | 116 expanded | 318 generated
+F bound current: 53.0 | 1188 expanded | 3328 generated
+F bound current: 55.0 | 10015 expanded | 28352 generated
+F bound current: 57.0 | 82799 expanded | 236207 generated
+F bound current: 59.0 | 649017 expanded | 1862862 generated
+F bound current: 61.0 | 4827706 expanded | 13925680 generated
+F bound current: 63.0 | 34259514 expanded | 99223339 generated
+F bound current: 65.0 | 233492613 expanded | 678618842 generated
+Time: 219.258s elapsed | 235850651 expanded | 685516314 generated | solution length: 65
+
+
+IDA* on unit STP problem 88
+(4x4)11 1 7 4 10 13 3 8 9 14 0 15 6 5 2 12
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 40.0 | 0 expanded | 0 generated
+F bound current: 42.0 | 6 expanded | 17 generated
+F bound current: 44.0 | 243 expanded | 741 generated
+F bound current: 46.0 | 2412 expanded | 7332 generated
+F bound current: 48.0 | 17210 expanded | 52484 generated
+F bound current: 50.0 | 111529 expanded | 340264 generated
+F bound current: 52.0 | 675677 expanded | 2061801 generated
+F bound current: 54.0 | 3951705 expanded | 12067782 generated
+Time: 12.418s elapsed | 12406069 expanded | 37708470 generated | solution length: 54
+
+
+IDA* on unit STP problem 89
+(4x4)5 4 7 1 11 12 14 15 10 13 8 6 2 0 9 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 40.0 | 0 expanded | 0 generated
+F bound current: 42.0 | 45 expanded | 129 generated
+F bound current: 44.0 | 447 expanded | 1294 generated
+F bound current: 46.0 | 3901 expanded | 11351 generated
+F bound current: 48.0 | 31036 expanded | 90746 generated
+F bound current: 50.0 | 226587 expanded | 666439 generated
+Time: 0.236s elapsed | 233786 expanded | 687585 generated | solution length: 50
+
+
+IDA* on unit STP problem 90
+(4x4)9 7 5 2 14 15 12 10 11 3 6 1 8 13 0 4
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 41.0 | 0 expanded | 0 generated
+F bound current: 43.0 | 2 expanded | 5 generated
+F bound current: 45.0 | 77 expanded | 213 generated
+F bound current: 47.0 | 732 expanded | 2074 generated
+F bound current: 49.0 | 6152 expanded | 17646 generated
+F bound current: 51.0 | 48117 expanded | 139597 generated
+F bound current: 53.0 | 355305 expanded | 1038500 generated
+F bound current: 55.0 | 2468366 expanded | 7257816 generated
+F bound current: 57.0 | 16171456 expanded | 47783661 generated
+Time: 49.34s elapsed | 51324592 expanded | 151720828 generated | solution length: 57
+
+
+IDA* on unit STP problem 91
+(4x4)3 2 7 9 0 15 12 4 6 11 5 14 8 13 10 1
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 39.0 | 0 expanded | 0 generated
+F bound current: 41.0 | 2 expanded | 5 generated
+F bound current: 43.0 | 16 expanded | 44 generated
+F bound current: 45.0 | 235 expanded | 674 generated
+F bound current: 47.0 | 1922 expanded | 5515 generated
+F bound current: 49.0 | 14419 expanded | 41647 generated
+F bound current: 51.0 | 102602 expanded | 297267 generated
+F bound current: 53.0 | 697222 expanded | 2026434 generated
+F bound current: 55.0 | 4514284 expanded | 13168824 generated
+F bound current: 57.0 | 28189417 expanded | 82543421 generated
+Time: 38.765s elapsed | 40591742 expanded | 118900904 generated | solution length: 57
+
+
+IDA* on unit STP problem 92
+(4x4)13 9 14 6 12 8 1 2 3 4 0 7 5 10 11 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 34.0 | 0 expanded | 0 generated
+F bound current: 36.0 | 2 expanded | 7 generated
+F bound current: 38.0 | 26 expanded | 82 generated
+F bound current: 40.0 | 298 expanded | 918 generated
+F bound current: 42.0 | 3433 expanded | 10601 generated
+F bound current: 44.0 | 26277 expanded | 80727 generated
+F bound current: 46.0 | 163773 expanded | 502506 generated
+Time: 0.709s elapsed | 687222 expanded | 2108055 generated | solution length: 46
+
+
+IDA* on unit STP problem 93
+(4x4)5 7 11 8 0 14 9 13 10 12 3 15 6 1 4 2
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 45.0 | 0 expanded | 0 generated
+F bound current: 47.0 | 2 expanded | 5 generated
+F bound current: 49.0 | 35 expanded | 100 generated
+F bound current: 51.0 | 1295 expanded | 3845 generated
+F bound current: 53.0 | 19013 expanded | 57241 generated
+Time: 0.179s elapsed | 183547 expanded | 556827 generated | solution length: 53
+
+
+IDA* on unit STP problem 94
+(4x4)4 3 6 13 7 15 9 0 10 5 8 11 2 12 1 14
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 36.0 | 0 expanded | 0 generated
+F bound current: 38.0 | 2 expanded | 5 generated
+F bound current: 40.0 | 17 expanded | 49 generated
+F bound current: 42.0 | 153 expanded | 448 generated
+F bound current: 44.0 | 1249 expanded | 3670 generated
+F bound current: 46.0 | 8791 expanded | 25938 generated
+F bound current: 48.0 | 58449 expanded | 173605 generated
+F bound current: 50.0 | 371773 expanded | 1109462 generated
+Time: 1.897s elapsed | 1909573 expanded | 5725640 generated | solution length: 50
+
+
+IDA* on unit STP problem 95
+(4x4)1 7 15 14 2 6 4 9 12 11 13 3 0 8 5 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 37.0 | 0 expanded | 0 generated
+F bound current: 39.0 | 2 expanded | 5 generated
+F bound current: 41.0 | 76 expanded | 219 generated
+F bound current: 43.0 | 601 expanded | 1757 generated
+F bound current: 45.0 | 6013 expanded | 17759 generated
+F bound current: 47.0 | 47011 expanded | 139474 generated
+F bound current: 49.0 | 325784 expanded | 970515 generated
+Time: 0.827s elapsed | 825462 expanded | 2467180 generated | solution length: 49
+
+
+IDA* on unit STP problem 96
+(4x4)9 14 5 7 8 15 1 2 10 4 13 6 12 0 11 3
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 34.0 | 0 expanded | 0 generated
+F bound current: 36.0 | 1 expanded | 3 generated
+F bound current: 38.0 | 159 expanded | 479 generated
+F bound current: 40.0 | 1513 expanded | 4495 generated
+F bound current: 42.0 | 10979 expanded | 32812 generated
+F bound current: 44.0 | 65646 expanded | 197301 generated
+Time: 0.295s elapsed | 287003 expanded | 863571 generated | solution length: 44
+
+
+IDA* on unit STP problem 97
+(4x4)0 11 3 12 5 2 1 9 8 10 14 15 7 4 13 6
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 34.0 | 0 expanded | 0 generated
+F bound current: 36.0 | 1 expanded | 2 generated
+F bound current: 38.0 | 18 expanded | 52 generated
+F bound current: 40.0 | 93 expanded | 274 generated
+F bound current: 42.0 | 567 expanded | 1703 generated
+F bound current: 44.0 | 3188 expanded | 9552 generated
+F bound current: 46.0 | 17582 expanded | 52919 generated
+F bound current: 48.0 | 94212 expanded | 284053 generated
+F bound current: 50.0 | 502052 expanded | 1515450 generated
+F bound current: 52.0 | 2639034 expanded | 7969070 generated
+F bound current: 54.0 | 13758380 expanded | 41562235 generated
+Time: 18.214s elapsed | 18353346 expanded | 55276111 generated | solution length: 54
+
+
+IDA* on unit STP problem 98
+(4x4)7 15 4 0 10 9 2 5 12 11 13 6 1 3 14 8
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 39.0 | 0 expanded | 0 generated
+F bound current: 41.0 | 1 expanded | 2 generated
+F bound current: 43.0 | 10 expanded | 28 generated
+F bound current: 45.0 | 68 expanded | 205 generated
+F bound current: 47.0 | 443 expanded | 1330 generated
+F bound current: 49.0 | 2686 expanded | 8032 generated
+F bound current: 51.0 | 16157 expanded | 48377 generated
+F bound current: 53.0 | 98042 expanded | 293846 generated
+F bound current: 55.0 | 592556 expanded | 1778070 generated
+F bound current: 57.0 | 3596277 expanded | 10801772 generated
+Time: 10.627s elapsed | 10805810 expanded | 32441227 generated | solution length: 57
+
+
+IDA* on unit STP problem 99
+(4x4)11 4 0 8 6 10 5 13 12 7 14 3 1 2 9 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F bound current: 40.0 | 0 expanded | 0 generated
+F bound current: 42.0 | 30 expanded | 89 generated
+F bound current: 44.0 | 330 expanded | 994 generated
+F bound current: 46.0 | 2593 expanded | 7818 generated
+F bound current: 48.0 | 18138 expanded | 54842 generated
+F bound current: 50.0 | 119105 expanded | 360824 generated
+F bound current: 52.0 | 745112 expanded | 2263747 generated
+F bound current: 54.0 | 4518221 expanded | 13758682 generated
+Time: 9.248s elapsed | 9247303 expanded | 28149932 generated | solution length: 54
+
+

@@ -1,0 +1,4 @@
+BTS Wide (c1 = 2, c2 = 8) on non-unit STP problem 11
+(4x4)14 1 9 6 4 8 12 5 7 2 3 0 10 11 13 15
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2.06s elapsed | 1217193 expanded | 3687925 generated | solution length: 52.31534021534024

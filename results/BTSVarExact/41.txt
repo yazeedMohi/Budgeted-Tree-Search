@@ -1,0 +1,4 @@
+BTS Exact (c1 = 2, c2 = 2) on non-unit STP problem 41
+(4x4)4 5 7 2 9 14 12 13 0 3 6 11 8 1 15 10
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 7.796s elapsed | 5664776 expanded | 17195736 generated | solution length: 49.5131216006216

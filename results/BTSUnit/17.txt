@@ -1,0 +1,4 @@
+BTS on unit STP problem 17
+(4x4)6 0 14 12 1 15 9 10 11 4 7 2 8 3 5 13
+(4x4)0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Time: 2.748s elapsed | 2903413 expanded | 8564258 generated | solution length: 55
