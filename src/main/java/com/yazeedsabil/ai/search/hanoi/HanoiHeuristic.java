@@ -1,6 +1,7 @@
 package com.yazeedsabil.ai.search.hanoi;
 
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.List;
 
 import com.yazeedsabil.ai.search.AStarSearch;
@@ -16,7 +17,6 @@ public class HanoiHeuristic implements IHeuristicFunction {
      * The goal node used in every heuristic value calculation.
      */
     private byte pegs;
-
 
     private int[] PDB;
 
@@ -66,28 +66,38 @@ public class HanoiHeuristic implements IHeuristicFunction {
     // random three lookups
     // or max two
 
-    int[] perms1 = {0, 2, 4, 6, 8, 10};
-    int[] perms2 = {1, 3, 5, 7, 9, 11};
+    // int[] perms1 = {0, 2, 4, 6, 8, 10};
+    // int[] perms2 = {1, 3, 5, 7, 9, 11};
 
     private double additivePDB(AbstractSearchNode searchNode, int pegs)
     {
-        byte[] state = (byte[])searchNode.getState();
-        byte[] p1 = new byte[state.length / 2];
-        byte[] p2 = new byte[state.length / 2];
-        
-        int j = 0;
-        for(int i : perms1)
-        {
-            p1[j] = state[i];
-            j++;
-        }
+        int s = (int)Math.round(Math.log(PDB.length) / Math.log(pegs));
 
-        j = 0;
-        for(int i : perms2)
+        byte[] state = (byte[])searchNode.getState();
+        byte[] p1 = new byte[s]; // state.length / 2];
+        byte[] p2 = new byte[s]; // / 2];
+        Arrays.fill(p2, (byte)(pegs-1));
+
+
+        for(int i = 0; i < state.length; i++)
         {
-            p2[j] = state[i];
-            j++;
+            if(i < s) p1[i] = state[i];
+            else p2[i-s] = state[i];
         }
+        
+        // int j = 0;
+        // for(int i : perms1)
+        // {
+        //     p1[j] = state[i];
+        //     j++;
+        // }
+
+        // j = 0;
+        // for(int i : perms2)
+        // {
+        //     p2[j] = state[i];
+        //     j++;
+        // }
 
         // System.out.println(PDB[FivePegHanoi.rank(p1)] + " " + PDB[FivePegHanoi.rank(p2)]);
         // System.exit(1);

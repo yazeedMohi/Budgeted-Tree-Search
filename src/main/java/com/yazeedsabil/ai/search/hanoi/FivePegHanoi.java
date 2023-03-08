@@ -3,7 +3,12 @@ package com.yazeedsabil.ai.search.hanoi;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
 import java.util.List;
 import java.util.stream.DoubleStream;
 import java.util.stream.IntStream;
@@ -70,7 +75,7 @@ public class FivePegHanoi extends AbstractHanoi {
         ArrayList<AbstractSearchNode> successors = new ArrayList<>();
         for(int plate = 0; plate < getState().length; plate ++)
         {
-            if(getState()[plate] == -1) continue;
+            // if(getState()[plate] == -1) continue;
 
             for(byte peg = 0; peg < PEGS; peg ++)
             {
@@ -78,13 +83,13 @@ public class FivePegHanoi extends AbstractHanoi {
 
                 boolean filled = false;
 
-                if(plate != 0)
-                {
+                // if(plate != 0)
+                // {
                     for(byte prevPlate = 0; prevPlate < plate; prevPlate ++)
                     {
                         if(getState()[prevPlate] == peg || getState()[prevPlate] == getState()[plate]) {filled = true; break;}
                     }
-                }
+                // }
 
                 if(!filled)
                 {
@@ -137,14 +142,14 @@ public class FivePegHanoi extends AbstractHanoi {
         double cost = 0;
         for(AbstractSearchNode c : path) cost+=c.distFromParent();
 
-        System.out.println("Pegs: "+ PEGS + " | Plates: "+goalStateArray.length + " | Time: " + ((System.currentTimeMillis() - startTime) / (1000.0)) + "s | Solution length: " + cost);
+        int step = 1;
+        for (AbstractSearchNode node : path) {
+            System.out.println("Step " + step);
+            System.out.println(node);
+            step++;
+        }
 
-        // int step = 1;
-        // for (AbstractSearchNode node : path) {
-        //     System.out.println("Step " + step);
-        //     System.out.println(node);
-        //     step++;
-        // }
+        System.out.println("Pegs: "+ PEGS + " | Plates: "+goalStateArray.length + " | Time: " + ((System.currentTimeMillis() - startTime) / (1000.0)) + "s | Solution length: " + cost);
     }
 
     private final static int PEGS = 5;
@@ -153,15 +158,24 @@ public class FivePegHanoi extends AbstractHanoi {
     {
         // for(int plates = 1; plates < 13; plates ++)
         //     solveBoard(new byte[plates]);
-        for(int plates = 3; plates < 13; plates ++)
-        {
-            long startTime = System.currentTimeMillis();
+        
+        // for(int plates = 3; plates < 13; plates ++)
+        // {
+        //     long startTime = System.currentTimeMillis();
 
-            Integer[] PDB = buildPDB(plates);
+        //     int[] PDB = buildPDB(plates);
 
-            System.out.println("Pegs: "+ PEGS + " | Plates: " + plates + " | Time: " + ((System.currentTimeMillis() - startTime) / (1000.0)) + "s | DB entries: " + PDB.length);
-        }
-        // solveBoard(new byte[12], PDB);
+        //     writePattern(PDB, "Pattern-"+plates);
+
+        //     System.out.println("Pegs: "+ PEGS + " | Plates: " + plates + " | Time: " + ((System.currentTimeMillis() - startTime) / (1000.0)) + "s | DB entries: " + PDB.length);
+        // }
+
+        // writePattern(buildPDB(8), "Pattern-8");
+        
+        int dishes = 13;
+        int pdbDishes = 12;
+
+        solveBoard(new byte[dishes], readPattern("Pattern-"+pdbDishes));
     }
 
     /**
@@ -171,17 +185,16 @@ public class FivePegHanoi extends AbstractHanoi {
      * @return a string representation of the puzzle
      */
 
-    //{4, 4, 4}
-    // 4 + 4x5 + 4x25
 
-    private static Integer[] buildPDB(int dishes)
+    private static int[] buildPDB(int dishes)
     {
         byte[] goalStateArray = new byte[dishes];
         Arrays.fill(goalStateArray, (byte)(PEGS-1));
-        Integer[] PDB = new Integer[(int)Math.pow(PEGS, dishes)];
+        int[] PDB = new int[(int)Math.pow(PEGS, dishes)];
         Arrays.fill(PDB, -1);
         PDB[rank(goalStateArray)] = 0;
-        for(int solutionLength = 0; solutionLength < (dishes - 2) * (PEGS - 1); solutionLength ++)
+
+        for(int solutionLength = 0; solutionLength < (dishes - 2) * (PEGS - 1) * 2; solutionLength ++)
         {
             for(int i = 0; i < PDB.length; i++)
             {
@@ -200,9 +213,6 @@ public class FivePegHanoi extends AbstractHanoi {
         return PDB;
     }
 
-    // i0 * pegs^0 + i1 * pegs^1 + i2 * pegs^2 + ..
-    // R  % pegs^0 , ((R -  R  % pegs^0) / pegs^1)
-
     public static int rank(byte[] state)
     {
         int res = 0;
@@ -212,13 +222,10 @@ public class FivePegHanoi extends AbstractHanoi {
         return res;
     }
 
-    // 196
-    // 6 => 190 => 19
-    // 9 => 10 => 1
-    // 1
     public static byte[] unrank(int rank, int dishes)
     {
         byte[] state = new byte[dishes];
+
         for(int i = 0; i < state.length; i ++)
         {
             state[i] = (byte)(rank % PEGS);
@@ -226,6 +233,36 @@ public class FivePegHanoi extends AbstractHanoi {
         }
 
         return state;
+    }
+
+    public static void writePattern(int[] map, String file) {
+        try {
+            File fileOne=new File("src\\main\\java\\com\\yazeedsabil\\ai\\search\\hanoi\\PDBs\\" + file);
+            FileOutputStream fos=new FileOutputStream(fileOne);
+            ObjectOutputStream oos=new ObjectOutputStream(fos);
+    
+            oos.writeObject(map);
+            oos.flush();
+            oos.close();
+            fos.close();
+        } catch(Exception e) {}
+    
+        //read from file 
+    }
+
+    private static int[] readPattern(String file){
+        try {
+            File toRead=new File("src\\main\\java\\com\\yazeedsabil\\ai\\search\\hanoi\\PDBs\\" + file);
+            FileInputStream fis=new FileInputStream(toRead);
+            ObjectInputStream ois=new ObjectInputStream(fis);
+    
+            int[] mapInFile=(int[])ois.readObject();
+    
+            ois.close();
+            fis.close();
+
+            return mapInFile;
+        } catch(Exception e) { return null;}
     }
 
     @Override

@@ -2,11 +2,11 @@ plugins {
     id 'java'
 }
 
-sourceCompatibility = '18'
-targetCompatibility = '18'
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
 version = '1.0.0'
 
-description = "A* and IDA* search implemented in Java.."
+description = "A*, IDA*, and BTS search implemented in Java.."
 
 repositories { mavenCentral() }
 
