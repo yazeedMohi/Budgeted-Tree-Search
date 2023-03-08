@@ -2,9 +2,11 @@ package com.yazeedsabil.ai.search.hanoi;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-
+import java.util.HashSet;
 import java.io.IOException;
 import java.util.List;
+import java.util.stream.DoubleStream;
+import java.util.stream.IntStream;
 
 import com.yazeedsabil.ai.search.AStarSearch;
 import com.yazeedsabil.ai.search.AbstractSearchNode;
@@ -97,7 +99,7 @@ public class FivePegHanoi extends AbstractHanoi {
         return successors;
     }
     
-    private static void solveBoard(byte[] initStateArray) throws IOException
+    private static void solveBoard(byte[] initStateArray, int[] PDB) throws IOException
     {
         // byte[] initStateArray = {0, 0, 0, 0, 0, 0, 0};
         // byte[] goalStateArray = {4, 4, 4, 4, 4, 4, 4};
@@ -106,7 +108,9 @@ public class FivePegHanoi extends AbstractHanoi {
         FivePegHanoi initialState = new FivePegHanoi(initStateArray);
         FivePegHanoi goalState = new FivePegHanoi(goalStateArray);
 
-        HanoiHeuristic heuristicFunction = new HanoiHeuristic((byte)PEGS);
+        HanoiHeuristic heuristicFunction = new HanoiHeuristic((byte)PEGS, PDB);
+
+        System.out.println("H: "+ heuristicFunction.calculateHeuristic(initialState));
         
         long startTime = System.currentTimeMillis();
 
@@ -144,11 +148,20 @@ public class FivePegHanoi extends AbstractHanoi {
     }
 
     private final static int PEGS = 5;
-    
+    // create one additive PDB for 6 dishes
     public static void main(String[] args) throws IOException
     {
-        for(int plates = 1; plates < 13; plates ++)
-            solveBoard(new byte[plates]);
+        // for(int plates = 1; plates < 13; plates ++)
+        //     solveBoard(new byte[plates]);
+        for(int plates = 3; plates < 13; plates ++)
+        {
+            long startTime = System.currentTimeMillis();
+
+            Integer[] PDB = buildPDB(plates);
+
+            System.out.println("Pegs: "+ PEGS + " | Plates: " + plates + " | Time: " + ((System.currentTimeMillis() - startTime) / (1000.0)) + "s | DB entries: " + PDB.length);
+        }
+        // solveBoard(new byte[12], PDB);
     }
 
     /**
@@ -157,6 +170,63 @@ public class FivePegHanoi extends AbstractHanoi {
      *
      * @return a string representation of the puzzle
      */
+
+    //{4, 4, 4}
+    // 4 + 4x5 + 4x25
+
+    private static Integer[] buildPDB(int dishes)
+    {
+        byte[] goalStateArray = new byte[dishes];
+        Arrays.fill(goalStateArray, (byte)(PEGS-1));
+        Integer[] PDB = new Integer[(int)Math.pow(PEGS, dishes)];
+        Arrays.fill(PDB, -1);
+        PDB[rank(goalStateArray)] = 0;
+        for(int solutionLength = 0; solutionLength < (dishes - 2) * (PEGS - 1); solutionLength ++)
+        {
+            for(int i = 0; i < PDB.length; i++)
+            {
+                if(PDB[i] != solutionLength) continue;
+
+                byte[] state = unrank(i, dishes);
+                for(AbstractSearchNode succ : (new FivePegHanoi(state)).getSuccessors())
+                {
+                    int rank = rank((byte[])succ.getState());
+                    if(PDB[rank] == -1) PDB[rank] = solutionLength + 1;
+                }
+            }
+        }
+
+        System.out.println("Done building PDB");
+        return PDB;
+    }
+
+    // i0 * pegs^0 + i1 * pegs^1 + i2 * pegs^2 + ..
+    // R  % pegs^0 , ((R -  R  % pegs^0) / pegs^1)
+
+    public static int rank(byte[] state)
+    {
+        int res = 0;
+
+        for(int i = 0; i < state.length; i ++) res += (int)(state[i] * Math.pow(PEGS, i));
+
+        return res;
+    }
+
+    // 196
+    // 6 => 190 => 19
+    // 9 => 10 => 1
+    // 1
+    public static byte[] unrank(int rank, int dishes)
+    {
+        byte[] state = new byte[dishes];
+        for(int i = 0; i < state.length; i ++)
+        {
+            state[i] = (byte)(rank % PEGS);
+            rank /= PEGS;
+        }
+
+        return state;
+    }
 
     @Override
     public String toString() {
